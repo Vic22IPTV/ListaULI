@@ -25,7 +25,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="9"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
-https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="10" tvg-name="Imagen Noticias" id="ImagenTV"  tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen Television
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712|user-agent=UniversoSport
@@ -45,9 +45,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-chno="14.5", Disney Channel Latinoamerica
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYCHANNELHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
 
-
 #EXTINF:-1 tvg-chno="15"id="" tvg-name="Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Discovery Kids HDTV (Latin America) (DKIDSHD) [856]
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="15.1"group-title="INFANTILES" tvg-id="308dtv.cl", tvg-logo="https://i.imgur.com/roN9yBg.png", Nickelodeon
+http://livex.pop-app.live/s4n/poptv/Nick.TecnoByte/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16"logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids 
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
@@ -59,7 +61,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="19" channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Mexico" , Bob Esponja Pantalones Cuadrados
-https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-chno="20"id="Canal11" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Tv Abierta",Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -94,6 +97,10 @@ http://208.88.246.11:5473/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%
 
 #EXTINF:-1 tvg-chno="30" tvg-name="178" tvg-id="I178.96307.schedulesdirect.org" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Channel LatinoAmerica HD
 http://livex.pop-app.live/s4n/poptv/DiscoveryChannel.TecnoByte/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30.1", ANIMAL PLANET
+http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="31" tvg-name="436 Discovery Familia" tvg-id="I436.58428.zap2it.com" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Familia
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510|user-agent=UniversoSport
@@ -344,6 +351,13 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/215
 #EXTINF:-1 tvg-chno="110" tvg-name="348" tvg-id="HBO2.mx(m3u4u)"id="" tvg-name="HBO2" tvg-logo="" group-title="",HBO 2 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710|user-agent=UniversoSport
 
+#EXTINF:-1 tvg-chno="110.1"id="" tvg-name="HBO Signature" tvg-logo="" group-title="Cine",HBO Signature
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="110.2"id="" tvg-name="HBO Family" tvg-logo="" group-title="Cine",HBO Family
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+
+
 #EXTINF:-1 tvg-chno="111" tvg-name="Universal Cinema" tvg-id="" group-title="PREMIUM" , Universal Cinema 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703|user-agent=UniversoSport
 
@@ -375,8 +389,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-chno="119" tvg-name="FOX SPORTS Premium" logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="MEXICO", Fox Sports Premium 🇲🇽 
 http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-chno="120" tvg-name="ESPN Deportes" channel id="ESPNDeportes(Spanish).us(m3u4u)" id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportes HDTV (EDEPHD)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/167
+#EXTINF:-1 tvg-chno="120"id="",AZTECA DEPORTES 1
+https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-name="Claro Sports 1" tvg-id="I145.72291.schedulesdirect.org" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",Claro Sports 🇲🇽
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
