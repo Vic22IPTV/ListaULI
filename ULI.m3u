@@ -1,34 +1,35 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
+
 #EXTINF:-1 tvg-chno="1"id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="",AZTECA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
 #EXTINF:-1 tvg-chno="2" tvg-name="Duplicate XEQ" id="" tvg-name="NUEVE 9" tvg-logo="" group-title="",NUEVE 9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/63805.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="3"id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30310.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="4"id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30301.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="5"id="canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",Las Estrellas
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/25306.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="6" tvg-name="Canal 5 de México (XHGC)" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa", Canal 5 de México (XHGC)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30315.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="7" tvg-name="Duplicate XHIMT Canal 7 TV Azteca"  group-title="Bics Extra", Azteca 7
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30309.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="8"id="" tvg-logo="" group-title="Undefined", Milenio TV HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30358.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="9"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="10" tvg-name="Imagen Noticias" id="ImagenTV"  tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen Television
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30354.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="11"id="LasEstrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas Internacional
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
@@ -37,10 +38,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-chno="13"id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="",Cartoon Network 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30316.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="14"id="" tvg-name="DISNEY JR ESP" tvg-logo="" group-title="",Disney Junior (North Feed) (DISJR)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30328.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="14.5", Disney Channel Latinoamerica
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYCHANNELHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
@@ -89,11 +90,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-chno="27"id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="",AZTECA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
-#EXTINF:-1 tvg-chno="28" tvg-name="UNIVERSAL Crime" logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL CRIME us
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701|user-agent=UniversoSport
+#EXTINF:-1 tvg-chno="28" tvg-name="UNIVERSAL Crime" logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL Crime
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCRIMEHD)/index.m3u8
 
 #EXTINF:-1 tvg-chno="29" tvg-name="ID"id="ID.mx"tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", ID | HD
-http://208.88.246.11:5473/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30355.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="30" tvg-name="178" tvg-id="I178.96307.schedulesdirect.org" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Channel LatinoAmerica HD
 http://livex.pop-app.live/s4n/poptv/DiscoveryChannel.TecnoByte/playlist.m3u8
@@ -103,13 +105,13 @@ http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="31" tvg-name="436 Discovery Familia" tvg-id="I436.58428.zap2it.com" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Familia
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/93806.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="32" tvg-name="Discovery World HD"group-title="CULTURA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/disworld.webp",Discovery World
-http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30326.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="33" tvg-name="Discovery Science"group-title="TV PREMIUM", Discovery Science
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30378.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="34" tvg-name="Discovery 1080" logo="https://yt3.googleusercontent.com/nGxcVN230qK9wJkI94bGHT3v-t4dnfbhLjxheCeJMea0rJfb32DAUIH5XVgjQno0RcCOp6TpwQ=s100-c-k-c0x00ffffff-no-rj" group-title="CULTURA" ,Discovery 1080 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -117,50 +119,59 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://tvup-gra-livegeo.secure2.footprint.net/discovery/discovery.mpd
 
 #EXTINF:-1 tvg-chno="35" tvg-name="182"tvg-id="I182.97928.schedulesdirect.org", DISCOVERY H&H
-http://208.88.246.11:5473/andromeda/DISCOVERYHH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3314.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="36" tvg-name="Discovery Theater HD"id="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png"  group-title="CONOCIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Discovery Theater HD
-http://208.88.246.11:5473/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30324.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-chno="37" tvg-name="Discovery World HD"id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png"  group-title="CONOCIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Discovery World HD
-http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3309.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 #EXTINF:-1 tvg-chno="38"id="" tvg-name="372" tvg-id="I372.70669.schedulesdirect.org" tvg-logo="https://www.historylatam.com/themes/custom/history_base/images/history_logo.png" group-title="Mexico",History 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30353.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="38.1" tvg-name="H2 Latinoamerica"logo="https://i.ibb.co/DDxrqKz/h2.png" tvg-group="CIENCIA Y CULTURA", History 2 (Latin America) (H2)
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30352.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 
 #EXTINF:-1 tvg-chno="39"id="" tvg-name="National Geographic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5fyYBH_uJCBFhRXpK02f1VOfUK2S6HXtg&usqp=CAU" group-title="Mexico",National Geographic LatinoAmerica HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30361.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="40"id="" tvg-name="435 NGMUNDO"   tcg-id="I435.72449.zap2it.com" tvg-logo="" group-title="",NATGEO MUNDO 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/53166.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-chno="41" tvg-name="NAT Geo Wild West"group-title="ESPAÑA" tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 tvg-chno="41", HGTV
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HGTVHD)/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="42" tvg-name="238" tvg-id="I238.101734.schedulesdirect.org" tvg-logo="https://i.imgur.com/pWOcy4r.png" group-title="CULTURA",E! Entertainment TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30360.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="43" tvg-name="UNIVERSAL REALITY " group-title="Lista 27 solo OTT", UNIVERSAL REALITY 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36357.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 #EXTINF:-1 tvg-chno="44"id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/145px-TLC_logo_%282023%29.svg.png" group-title="Mexico",TLC FHD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30325.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="45"id="" tvg-name="CLIC" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/logo/366x206/1920_x_1080_0_2.jpg" group-title="",CLIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
 #EXTINF:-1 tvg-chno="46" ,Canal Sony
-http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SONYHD)/index.m3u8
 
 #EXTINF:-1 tvg-chno="47"id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG"  group-title="CINE" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Space | HD
-http://208.88.246.11:5473/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SPACEHD)/index.m3u8
 
 #EXTINF:-1 tvg-chno="48"id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", FX | HD
-http://208.88.246.11:5473/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
 
 #EXTINF:-1 tvg-chno="49"id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", AXN | HD
-http://208.88.246.11:5473/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AXNHD)/index.m3u8
 
 #EXTINF:-1 tvg-chno="50", HGTV Latin America HDTV (Panregional) (HGTVHD)
 http://livex.pop-app.live/s4n/poptv/HGTV.TecnoByte/playlist.m3u8
@@ -175,7 +186,7 @@ http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 http://208.88.246.77:5473/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="54" tvg-name="TNT AmericaLatina HD" tvg-id="TNT MX" logo="https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="LIGAS EUROPEAS", TNT Latin America (Mexico) (TNT)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/37992.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="55"id="love nature" tvg-logo="https://a.jsrdn.com/hls/23107/love-nature/thumbh_20230210_194648_270.jpg" group-title="documental",Love Nature Spanish
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
@@ -185,10 +196,10 @@ https://sabermas-distro.amagi.tv/SaberMas-xumo/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="57"id=" group-title="Bics", UNICABLE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3066.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="58"id="" tvg-name="Unimas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",Unimas
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/2100.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="59" tvg-name="RCN Xtra"group-title="Bics Extra",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -203,19 +214,19 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-name="MULTIMEDIOS TV HD" id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Monterrey
-http://167.114.156.136:25461/INFINITV/ZX89NM22/89
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/92556.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="64"logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="USA", TELEMUNDO MIAMI
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/79635.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="65"id="" tvg-name="Telemundo New York" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",Telemundo New York
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1900.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="66"logo="https://rndserv.xyz/img/telemundo.png", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-chno="67"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision 
-http://167.114.156.136:25461/INFINITV/ZX89NM22/173
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/21971.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="68"group-title="Bics Extra", Univisión (Latin America) (UNIVIS) [407]
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
@@ -320,7 +331,8 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
 
 #EXTINF:-1 tvg-chno="101" tvg-name="Sony Cine"  id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies", Cine Sony Television (CSONY)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643|user-agent=UniversoSport
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SONYHD)/index.m3u8
 
 #EXTINF:-1 tvg-chno="102"id="Horrorfy" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/Horrofy_cover_FastChannel_1920x1080-752x423.jpg" group-title="Movies2",Horrorfy
 https://horrorfy-distro.amagi.tv/Horrify-roku/master.m3u8
@@ -340,16 +352,17 @@ https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="107"logo="http://181.189.243.217:8000/playlist/tvg-logo/a0oc.png" group-title="TV PREMIUM", Golden Premier
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709|user-agent=UniversoSport
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENPREMIERHD)/index.m3u8
 
 #EXTINF:-1 tvg-chno="108"logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="CINE Y SERIES", DE PELICULA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507|user-agent=UniversoSport
 
 #EXTINF:-1 tvg-chno="109" tvg-name="HBO Plus (Mexico) (HBO+)" tvg-id="HBO.Plus.(Mexico).(HBO+).mx"id="" tvg-name="HBO2" tvg-logo="" group-title="" ,HBO Plus (Mexico) (HBO+)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/215
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30343.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="110" tvg-name="348" tvg-id="HBO2.mx(m3u4u)"id="" tvg-name="HBO2" tvg-logo="" group-title="",HBO 2 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/37985.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="110.1"id="" tvg-name="HBO Signature" tvg-logo="" group-title="Cine",HBO Signature
 http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
@@ -357,18 +370,42 @@ http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
 #EXTINF:-1 tvg-chno="110.2"id="" tvg-name="HBO Family" tvg-logo="" group-title="Cine",HBO Family
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="110.3" tvg-name="362" tvg-id="I362.68301.schedulesdirect.org", HBO POP
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPOPHD)/index.m3u8
+
+#EXTINF:-1 tvg-chno="110.4" tvg-name="633 HBOLW" group-title="PREMIUM", HBOLW
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30347.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="110.5" group-title="PREMIUM", HBO Xtreme
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30350.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
 
 #EXTINF:-1 tvg-chno="111" tvg-name="Universal Cinema" tvg-id="" group-title="PREMIUM" , Universal Cinema 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/36358.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="112" group-title="Lista 27 solo OTT", UNIVERSAL PREMIERE  
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38842.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="113" group-title="Lista 27 solo OTT", UNIVERSAL COMEDY 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38847.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="114" tvg-name="Cinemax" group-title="HD",CINEMAX HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/81492.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="114.1", Cinecanal
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINECANALHD)/index.m3u8
+
+#EXTINF:-1 tvg-chno="114.2", Film&amp;Arts (Latin America) (F&amp;A)
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FILMARTSHD)/index.m3u8
+
+#EXTINF:-1 tvg-chno="114.3" tvg-id="" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title="PREMIUM", Cinecanal SUR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
 
 
 #EXTINF:-1 tvg-chno="115" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
@@ -377,14 +414,13 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-chno="116"id="" tvg-name="UNIVISION" tvg-logo="" group-title="",UNIVISION 🇺🇸 HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/46985.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="117"id="" tvg-name="NBC Universo" tvg-logo="" group-title="", UNIVERSO HDTV (East) (UNVSOHD)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665|user-agent=UniversoSport
-
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1939.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="118" tvg-name="TUDN" channel id="TUDN(Spanish).us(m3u4u)" id="TUDN univision 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|user-agent=UniversoSport
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/50395.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="119" tvg-name="FOX SPORTS Premium" logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="MEXICO", Fox Sports Premium 🇲🇽 
 http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -395,6 +431,23 @@ https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-name="Claro Sports 1" tvg-id="I145.72291.schedulesdirect.org" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",Claro Sports 🇲🇽
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
+
+#EXTINF:-1 tvg-chno="122" group-title="24/7", Premiere 10 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71327.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="122.1" group-title="24/7", Premiere 11 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71330.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="122.2" group-title="24/7", Premiere 12 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71329.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="122.3" group-title="24/7", Premiere 3 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71320.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="122.4" group-title="24/7", Premiere 6 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71323.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="122.5" group-title="24/7", Premiere 7 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71324.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="122.6" group-title="24/7", Premiere 8
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71325.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="122.7" group-title="24/7", Premiere 9 
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71326.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 
 
