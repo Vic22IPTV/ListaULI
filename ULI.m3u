@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz"
 
 #EXTINF:-1 tvg-chno="1"id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="",AZTECA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
@@ -93,6 +92,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 #EXTINF:-1 tvg-chno="28" tvg-name="UNIVERSAL Crime" logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL Crime
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCRIMEHD)/index.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-name="UNIVERSAL Crime" logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL CRIME us
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/38843.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="29" tvg-name="ID"id="ID.mx"tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", ID | HD
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30355.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -100,26 +101,40 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30355.m3u8|user-agent=BrzLRz
 #EXTINF:-1 tvg-chno="30" tvg-name="178" tvg-id="I178.96307.schedulesdirect.org" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Channel LatinoAmerica HD
 http://livex.pop-app.live/s4n/poptv/DiscoveryChannel.TecnoByte/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30.1", ANIMAL PLANET
+#EXTINF:-1 tvg-chno="30.1" tvg-id="" tvg-name="Mundo & cultura  |  Discovery science  |   Nvidia - dplay" tvg-logo="" group-title="livetv", Discovery Science Latinoamerica
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/40
+
+#EXTINF:-1 tvg-chno="30.2" tvg-name="182"tvg-id="I182.97928.schedulesdirect.org", DISCOVERY H&H
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3314.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="30.3", ANIMAL PLANET
 http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="31"id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG"  group-title="CINE" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Space | HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/29
 
-#EXTINF:-1 tvg-chno="31" tvg-name="436 Discovery Familia" tvg-id="I436.58428.zap2it.com" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Familia
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/93806.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="32" tvg-name="" channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png" group-title="Spain" , Documentales - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 tvg-chno="32" tvg-name="Discovery World HD"group-title="CULTURA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/disworld.webp",Discovery World
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30326.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="32.1" tvg-name="" channel-id="samsung-USBD1700015J1" tvg-id="USBD1700015J1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20230912T232514SQUARE.png_20230912232515.png" group-title="United States" , Aquí y Ahora
+https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 tvg-chno="33" tvg-name="Discovery Science"group-title="TV PREMIUM", Discovery Science
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30378.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="32.3" tvg-name="" channel-id="samsung-ESBC4700002TD" tvg-id="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png"  group-title="Spain" , Love the Planet
+https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 tvg-chno="33"id="love nature" tvg-logo="https://a.jsrdn.com/hls/23107/love-nature/thumbh_20230210_194648_270.jpg" group-title="documental",Love Nature Spanish
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="33.1"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
+https://sabermas-distro.amagi.tv/SaberMas-xumo/master.m3u8
+
 
 #EXTINF:-1 tvg-chno="34" tvg-name="Discovery 1080" logo="https://yt3.googleusercontent.com/nGxcVN230qK9wJkI94bGHT3v-t4dnfbhLjxheCeJMea0rJfb32DAUIH5XVgjQno0RcCOp6TpwQ=s100-c-k-c0x00ffffff-no-rj" group-title="CULTURA" ,Discovery 1080 🇪🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cAFxKa0T781RgCNLb4yDdA","kid":"6jKT5X-hWzGfbcxbZgGWGA"},{"kty":"oct","k":"X7TjNobU4OUIhI8ZzFtBhw","kid":"N1nZytfxX1ydvPQzBjmb9w"}],"type":"temporary"}
 https://tvup-gra-livegeo.secure2.footprint.net/discovery/discovery.mpd
 
-#EXTINF:-1 tvg-chno="35" tvg-name="182"tvg-id="I182.97928.schedulesdirect.org", DISCOVERY H&H
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3314.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 
 #EXTINF:-1 tvg-chno="36" tvg-name="Discovery Theater HD"id="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png"  group-title="CONOCIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Discovery Theater HD
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30324.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -158,15 +173,15 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30325.m3u8|user-agent=BrzLRz
 #EXTINF:-1 tvg-chno="45"id="" tvg-name="CLIC" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/logo/366x206/1920_x_1080_0_2.jpg" group-title="",CLIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
-#EXTINF:-1 tvg-chno="46" ,Canal Sony
+#EXTINF:-1 tvg-chno="46" ,Sony Entertainment Television HDTV (Centro America feed) (SONYHD)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SONYHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="47"id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG"  group-title="CINE" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Space | HD
+#EXTINF:-1 tvg-chno="47"id="Space.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG"  group-title="CINE" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Space (Panamericano) (SPACE)
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SPACEHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="48"id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", FX | HD
+#EXTINF:-1 tvg-chno="48"id="FX.mx" tvg-name="" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", FX Latin America (México) (FX)
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8|user-agent=Chrome/61.0.3163.100
 
 #EXTINF:-1 tvg-chno="49"id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", AXN | HD
@@ -355,8 +370,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENPREMIERHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="108"logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="CINE Y SERIES", DE PELICULA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507|user-agent=UniversoSport
+
 
 #EXTINF:-1 tvg-chno="109" tvg-name="HBO Plus (Mexico) (HBO+)" tvg-id="HBO.Plus.(Mexico).(HBO+).mx"id="" tvg-name="HBO2" tvg-logo="" group-title="" ,HBO Plus (Mexico) (HBO+)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30343.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -374,11 +388,10 @@ http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPOPHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="110.4" tvg-name="633 HBOLW" group-title="PREMIUM", HBOLW
+#EXTINF:-1 tvg-chno="110.4" tvg-name="HBO MUNDI (Mexico) (HBOMUN)" group-title="PREMIUM", HBO MUNDI (Mexico) (HBOMUN)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30347.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-chno="110.5" group-title="PREMIUM", HBO Xtreme
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30350.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
 
 
 
@@ -402,7 +415,7 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CIN
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FILMARTSHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="114.3" tvg-id="" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title="PREMIUM", Cinecanal SUR
+#EXTINF:-1 tvg-chno="114.3" tvg-id="CinecanalEast.us" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title="PREMIUM", Cinecanal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
@@ -414,7 +427,7 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-chno="116"id="" tvg-name="UNIVISION" tvg-logo="" group-title="",UNIVISION 🇺🇸 HD
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/46985.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/21971.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
 #EXTINF:-1 tvg-chno="117"id="" tvg-name="NBC Universo" tvg-logo="" group-title="", UNIVERSO HDTV (East) (UNVSOHD)
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/1939.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -448,8 +461,6 @@ http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71324.m3u8|user-agent=BrzLRz
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71325.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-chno="122.7" group-title="24/7", Premiere 9 
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/71326.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-
-
 
 
 
