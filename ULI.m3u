@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/mexico.xml,https://xmltv.tvkaista.net/guides/mi.tv_mx.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/Plex/mx.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/es.xml,https://i.mjh.nz/Roku/epg.xml.gz,https://i.mjh.nz/Plex/us.xml,https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml,https://www.bevy.be/bevyfiles/colombiapremium.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://github.com/HelmerLuzo/CanelaTV_HL/raw/main/epg/CanelaTV.xml.gz,https://xmltv.tvkaista.net/guides/gatotv.com.xml"
-
-#EXTINF:-1 tvg-chno="10.1" tvg-id="I85.46607.schedulesdirect.org" tvg-name=""  tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV AZTECA" tvg-shift="-2", AZTECA UNO
-
 #EXTINF:-1 tvg-chno="10.1" tvg-id="XHDF.Ciudad.de.México.(Azteca.Uno).DF.(AZUNO).mx" tvg-name="XHDF Ciudad de México (Azteca Uno) DF (AZUNO)"  tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV AZTECA", XHDF Ciudad de México (Azteca Uno) DF (AZUNO)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -16,12 +12,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccc7a2858cb00081273
 
 #EXTINF:-1 tvg-chno="10.2" tvg-id="I234.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
-#EXTINF:-1 tvg-chno="10.2" tvg-id="Azteca7.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", XHIMT Azteca 7 DF (AZT-7)
+#EXTINF:-1 tvg-chno="10.2" tvg-id="I234.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", XHIMT Azteca 7 DF (AZT-7)
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
 #EXTINF:-1 tvg-chno="10.2" tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-chno="10.2" tvg-id="I234.102406.schedulesdirect.org" tvg-name="234" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", AZTECA 7.1
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="10.3" tvg-id="I140.15384.schedulesdirect.org" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="TV AZTECA",ADN 40 
@@ -54,26 +47,27 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="11"tvg-id="LasEstrellas.mx" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas 2.1
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="11"tvg-id="XEW.Las.Estrellas.HDTV.DF.(XEW-DT).mx" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA",Las Estrellas DF 
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="11.1" tvg-id="LasEstrellas.mx" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA" tvg-shift="+1", LAS ESTRELLAS MX -1HR
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="11.2" tvg-id="LasEstrellas.mx" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA" tvg-shift="+2", LAS ESTRELLAS MX -2HR
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="11.3" tvg-id="Las.Estrellas.(ESTRELLA).[10].cr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="TELEVISA", Las Estrellas Internacional
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-chno="11.4" tvg-id="mx#xh-gc-canal-5-hd" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", CANAL 5 MX
 
 #EXTINF:-1 tvg-chno="11.4" tvg-id="XHGC.5.Nacional.(CANL5).mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 de México (XHGC)
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="11.4" tvg-id="Canal5.mx" tvg-name="Canal 5"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 MX
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="NUEVE"  tvg-name="NUEVE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA",NUEVE 9
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="ElNu9ve.mx" tvg-name="El Nu9ve" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA",El Nu9ve
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="11.5" tvg-id="I233.97020.schedulesdirect.org" tvg-name=""  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TELEVISA", Nu9ve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
@@ -123,7 +117,7 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m
 #EXTINF:-1 tvg-chno="13.4" tvg-id="I232.102405.schedulesdirect.org" tvg-name="" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacional", CANAL ONCE mx
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="13.4" tvg-id="I232.102405.schedulesdirect.org" tvg-name="" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Nacional", ONCE TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/111
+
 
 #EXTINF:-1 tvg-chno="13.5" tvg-id="MX NUESTRO CINE" tvg-logo="https://canal22.org.mx/img/mxnuestrocine/imcine.png" group-title="Nacional", MX NUESTRO CINE
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
@@ -208,7 +202,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="17.1" tvg-id="I197.61311.schedulesdirect.org" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="Infantil",Disney Junior MX
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/44
 #EXTINF:-1 tvg-chno="17.1" tvg-id="I322.61311.schedulesdirect.org" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="Infantil",Disney Junior Latinoamerica
-
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="17.2"id="" tvg-name="Disney Junior 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="Infantil",Disney Junior 1080
 
@@ -241,39 +235,53 @@ https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 #EXTINF:-1 tvg-chno="15.4" channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Infantil" , Bob Esponja Pantalones Cuadrados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="14.2" channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png"  group-title="Infantil" , Nickelodeon en español
+#EXTINF:-1 tvg-chno="15.5" channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png"  group-title="Infantil" , Nickelodeon en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="14.2" channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png"  group-title="Infantil" , Nickelodeon Clásico
+#EXTINF:-1 tvg-chno="15.6" channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png"  group-title="Infantil" , Nickelodeon Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="14.2" tvg-id="I466.101731.schedulesdirect.org" tvg-logo="https://i.imgur.com/roN9yBg.png" group-title="Infantil" , Nickelodeon mx
+#EXTINF:-1 tvg-chno="15.7" tvg-id="I466.101731.schedulesdirect.org" tvg-logo="https://i.imgur.com/roN9yBg.png" group-title="Infantil" , Nickelodeon mx
+http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
 
-
-#EXTINF:-1 tvg-chno="14" logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/thumbh_20230426_174328_270.jpg" group-title="Infantil",Kids TV  
+#EXTINF:-1 tvg-chno="15.8" logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/thumbh_20230426_174328_270.jpg" group-title="Infantil",Kids TV  
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
 
-#EXTINF:-1 tvg-chno="14.1" channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png"  group-title="ANIME" , Pluto TV Anime Kids
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636e83511fa9600007e5ae19/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-chno="14.2" tvg-id="" tvg-name="" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation ✪ | AR
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno="14.3" tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil", Gogoplay TV
+#EXTINF:-1 tvg-chno="15.9" tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil", Gogoplay TV
 https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="14.4" tvg-id="I95.72801.schedulesdirect.org" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es" group-title="Infantil", BITME
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="15.10" tvg-id="I95.72801.schedulesdirect.org" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es" group-title="Infantil", BITME
 
-#EXTINF:-1 tvg-chno="14.5" tvg-id="" tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png" group-title="Infantil",HQM Kids 🎶
+
+#EXTINF:-1 tvg-chno="15.11" tvg-id="" tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png" group-title="Infantil",HQM Kids 🎶
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-chno="14.6" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQeBrI0otPkA8s9h65pCCL6G2KbfEM-Gz0eFpEF_A=s176-c-k-c0x00ffffff-no-rj" group-title="Infantil", 123 Go Spanish (MX)
+#EXTINF:-1 tvg-chno="15.12" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQeBrI0otPkA8s9h65pCCL6G2KbfEM-Gz0eFpEF_A=s176-c-k-c0x00ffffff-no-rj" group-title="Infantil", 123 Go Spanish (MX)
 https://amg02051-soulpublishing-amg02051c3-lg-mx-586.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgmx/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="14.7" tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/100x100.webp?type=color_onBlack" group-title="Infantil", Moji TV
+#EXTINF:-1 tvg-chno="15.13" tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/100x100.webp?type=color_onBlack" group-title="Infantil", Moji TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991687
+
+
+#EXTINF:-1 tvg-chno="14.1" tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/7a8bb950f9d11c8b40504a71be33892b0e73928e51441345a5a2a2aeb937beb4.png" group-title="ANIME" ,Canal Anime Onegai 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+#EXTINF:-1 tvg-chno="14.2" tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/7a8bb950f9d11c8b40504a71be33892b0e73928e51441345a5a2a2aeb937beb4.png" group-title="ANIME",Canal Anime Onegai 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+#EXTINF:-1 tvg-chno="14.3" tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/7a8bb950f9d11c8b40504a71be33892b0e73928e51441345a5a2a2aeb937beb4.png" group-title="ANIME",Canal Anime Onegai 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 tvg-chno="14.4" tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/7a8bb950f9d11c8b40504a71be33892b0e73928e51441345a5a2a2aeb937beb4.png" group-title="ANIME",Canal Anime Onegai 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+#EXTINF:-1 tvg-chno="14.5" tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/7a8bb950f9d11c8b40504a71be33892b0e73928e51441345a5a2a2aeb937beb4.png" group-title="ANIME",Canal Anime Onegai 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
+https://live-us-east-1.its-newid.net/live/newid_202/anime_onegai/1280x720/language/vttindex/898547f6-9ac1fafb-28ed9a76-eed36a9c/abcca63b-284498d7-5445299e-f753078e/index.m3u8
+
+#EXTINF:-1 tvg-chno="14.6" channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png"  group-title="ANIME" , Pluto TV Anime Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636e83511fa9600007e5ae19/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-chno="14.7" tvg-id="" tvg-name="" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="ANIME", AnimeStation ✪ | AR
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno="14.8" tvg-id="" tvg-logo="https://i.imgur.com/bK5L2bv.png" group-title="ANIME", Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?PlaylistM3UCL
@@ -494,9 +502,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4ec
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
-#EXTINF:-1 tvg-chno="64" channel-id="plex-5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-id="5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5564f22-68b4-48a4-b797-0efe45c73103/Logo_w_-_JENNIFER_MCBRIDE_colorrdx2.png" group-title="Cine PLEX" , Cine Premium Plus
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc.m3u8
+#EXTINF:-1 tvg-chno="64" channel-id="plex-608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6" tvg-id="608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73d2ac35-f4e7-48a6-9300-ce106bc56c55/Cine_y_Series_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_copy_-_JuanMa_Velasquez.png" group-title="Cine PLEX" , Cine y Series
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6.m3u8
 #EXTINF:-1 tvg-chno="64.1"channel-id="plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png" group-title="Cine PLEX" , Cine de Horror
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 #EXTINF:-1 tvg-chno="64.2" channel-id="plex-608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a" tvg-id="608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4191909-02c9-4043-9a9a-9344a83653e4/Bigtime_Light_Mode_Logo.png" group-title="Cine PLEX" , Bigtime - Películas Gratis
@@ -557,18 +564,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-chno="66" tvg-id="GOLDEN HD.co" tvg-name="GOLDEN HD.co" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png"  group-title="Golden",Golden-Latin America
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="I333.16298.schedulesdirect.org" tvg-name="Golden" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png" group-title="Golden", Golden 
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="66" tvg-id="I336.19737.schedulesdirect.org" tvg-name="Golden Multiplex" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png"  group-title="Golden",Golden Multiplex
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="66.1" tvg-id="I334.16423.schedulesdirect.org" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png"  group-title="Golden",Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="66.2" tvg-id="Golden Plus" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="Golden",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="66.3" tvg-id="Golden Premier" tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="Golden", Golden Premier
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="66.4" tvg-id="I338.80805.schedulesdirect.org" tvg-name="Golden Premier 2" tvg-logo="https://logo.iptveditor.com/goldenpremier2.png" group-title="Golden", Golden Premier 2 
 
@@ -738,6 +744,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
 #EXTINF:-1 tvg-chno="69.14"  tvg-id="FMH Películas" tvg-name="FMH Películas" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies. jpg" group-title="Cine PREMIUM", Películas FMH
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
 
+
 #EXTINF:-1 tvg-chno="79" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"  group-title="Internacional" , La 1 1080
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8|user-agent=okhttp/4.10.0
 
@@ -820,7 +827,6 @@ https://d1fbbm0iugalh3.cloudfront.net/master.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="77.2"tvg-id="I682.84425.schedulesdirect.org" tvg-logo="https://logo.iptveditor.com/unicable.png" group-title="TELEVISA", UNICABLE
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="77" tvg-id="I684.29058.schedulesdirect.org" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="TELEVISA", UniMas
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASWEST&calidad=hd&.m3u8
@@ -849,7 +855,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="76.3" channel-id="roku-417de64d5d2255119088209d40ebfee6" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/417de64d5d2255119088209d40ebfee6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652302122079_260x147-center.png" group-title="Entretenimiento" , Estrella Games
-https://estrella-games-oando.amagi.tv/playlist.m3u8
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Estrella-Games.m3u8
 
 
 #EXTINF:-1 tvg-chno="76.4" tvg-id="I442.91505.schedulesdirect.org" tvg-name="Multimedios HDTV (Monterrey) (MMTVHD) [829]" id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Nacional",Multimedios Monterrey
@@ -875,7 +881,7 @@ https://i.mjh.nz/Roku/5ae9fb0c6e015b0d951063f6a6b39ee5.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 tvg-chno="75.2" tvg-id="I47.1.54437.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="TELEMUNDO",Telemundo New York
-
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-chno="75.2" tvg-id="I47.1.54437.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="TELEMUNDO",Telemundo New York 🇺🇸
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -907,16 +913,17 @@ https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
 #EXTINF:-1 tvg-chno="75.10" tvg-id="9070" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO",UNIVERSO HDTV (East) (UNVSOHD)op2
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/36.m3u8|user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-chno="75.10" tvg-id="9070" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO",UNIVERSO HDTV (East) (UNVSOHD)
 
 #EXTINF:-1 tvg-chno="75.10" tvg-id="I410.14791.zap2it.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO", NBC Universo w
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/329
 
 #EXTINF:-1 tvg-chno="74" tvg-id="Univisión.(Latin.America).(UNIVIS).[407].cr" tvg-name="Univisión (Latin America) (UNIVIS) [407]" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univisión (Latin America) (UNIVIS) [407]
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="74.1" tvg-id="I827.11118.schedulesdirect.org" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision Netword
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-chno="74.2" tvg-id="I23.1.34962.zap2it.com" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision Miami
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
@@ -929,11 +936,12 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
 
 #EXTINF:-1 tvg-chno="74.5" tvg-id="I403.14762.zap2it.com" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision West
 
+
 #EXTINF:-1 tvg-chno="74.6" tvg-id="I270.11118.schedulesdirect.org" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision Dallas
 
 
 #EXTINF:-1 tvg-chno="74.7" tvg-id="I270.11118.zap2it.com" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision East
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/1099/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="73"  tvg-id="" logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/48?cb=20200108123758&path-prefix=es" group-title="Internacional", Televisora Nacional de Panamá S.A Canal 2 HDTV (TVNHD) [1020]
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
@@ -980,7 +988,7 @@ https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3
 
 
 #EXTINF:-1 tvg-chno="72" channel-id="plex-5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa402feb-1ae2-48bf-9dda-9c42384a324d/Logo_Euronews_stacked_white_on_spanish_1500x1000wht.png" group-title="Noticias", Euronews Español
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d.m3u8
+https://euronews-euronews-spanish-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="72.1" tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias",France 24 Español 
 https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -1174,6 +1182,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-chno="70.28" tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT).[611].cr" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Música",VM Latino / El Canal de la Música (VMLAT) [611]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/.m3u8
 
+#EXTINF:-1 tvg-chno="70.29" tvg-id="" tvg-logo="https://ultra-fm.mx/wp-content/uploads/2021/01/thumbnail_4.png" group-title="Música",ULTRA FM
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="89.2" tvg-id="I687.122765.schedulesdirect.org" tvg-name="" logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="Crimen" group-title="Crimen" , UNIVERSAL CRIME us
 ##EXTVLCOPT:network-caching=1000
@@ -1459,11 +1469,8 @@ http://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgv
 #EXTINF:-1 tvg-chno="99.4"channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png"  group-title="⚽FUTBOL LIGA MX⚽" , Zona TUDN 🇺🇸 
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-chno="99.1" tvg-id="I662.38683.schedulesdirect.org" tvg-name=""   tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="⚽FUTBOL LIGA MX⚽", TUDN 🇲🇽 vix
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="99"tvg-id="I13.108507.schedulesdirect.org" tvg-name="Afizzionados" tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="⚽FUTBOL LIGA MX⚽", Afizzionados Vix
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="99.1" tvg-id="I662.38683.schedulesdirect.org" tvg-name=""   tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="⚽FUTBOL LIGA MX⚽", TUDN 🇲🇽 
+https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 
 #EXTINF:-1 tvg-chno="98.1" tvg-id="I145.72291.schedulesdirect.org" tvg-name=""  tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="⚽FUTBOL LIGA MX⚽",Claro Sports 🇲🇽
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
@@ -1536,8 +1543,4 @@ https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/320px-ViX_Logo.svg.png" group-title="⚽FUTBOL LIGA MX⚽", VIX FUTBOL 30
 https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
-
-
-
-
 
