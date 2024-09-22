@@ -1788,9 +1788,7 @@ https://ddy5.mizhls.ru/ddy5/premium788/tracks-v1a1/mono.m3u8
 https://webhdrunns.mizhls.ru/lb/premium789/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-chno="93.9" tvg-id="WAPADT2.pr" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/320px-WAPA-TV_logo.svg.png" tvg-shift="-6" , WAPA DEPORTES
+#EXTINF:-1 tvg-chno="93.9" tvg-id="WAPA 2 Deportes" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/320px-WAPA-TV_logo.svg.png" tvg-shift="" , WAPA 2 Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-chno="93.11"channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="Deportes SUDAMERICA"  , Chilevision Deportes Solo Chilenos
@@ -1855,6 +1853,14 @@ https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
 
 #EXTINF:-1 tvg-chno="93.2" tvg-id=""  tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1696988819079_AI_Roku_260x147_Mono_DEPORTES_CB_Oct23.png" id="" group-title="Deportes" , TV AZTECA DEPORTES 2
 https://mdstrm.com/live-stream-playlist/5ff4650032ebd651c24732c8.m3u8
+
+#EXTINF:-1 tvg-chno="92" tvg-id="TyC Sports" tvg-name="" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes SUDAMERICA" , TyC Sports
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy6.mizhls.ru/ddy6/premium746/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-chno="91" tvg-id="fifa-plus-es-new" tvg-name="fifa-plus-es-new" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e37664a3-8cb2-4f78-b683-8ed89d108924.jpeg" group-title="SPORTS FIFA" , FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=a7f92728-ae3b-40a3-be3c-aceb283bdf92&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
@@ -1939,7 +1945,12 @@ https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.
 
 
 #EXTINF:-1 tvg-chno="70.23" tvg-id="" tvg-name="I211.65025.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65025/s65025_ll_h9_aa.png" group-title="NFL🏈", NFL Redzone
-http://alfatv.lat:2082/play/eFoZvevF3uyWqtisCG8Sz6eIizix09c-so-GRcPKk8A9OR8YkgXLqwUB8Zz2gD8r/m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddh1.mizhls.ru/ddh1/premium667/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="71" tvg-id="I206.10179.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32645/s32645_ll_h15_ab.png" group-title="🇺🇸 USA Sports 🇺🇸",ESPN US 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -2016,10 +2027,9 @@ http://41.205.93.154/ABC/index.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium51/index.m3u8
 
+
 #EXTINF:-1 tvg-chno="71.15" tvg-id="I242.11207.zap2it.com" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg" group-title="🇺🇸 USA Sports 🇺🇸" , USA Network East
-http://webplayers.skytecnology.com/usalux/lux_get.php?id=20000347&type=stream.m3u8
-
-
+https://7pal.short.gy/usanetwork
 
 
 #EXTINF:-1 tvg-chno="73" tvg-name="PT | Eleven 1" tvg-logo="https://logo.iptveditor.com/eleven1.png" group-title="SPORTS PORTUGAL", PT | Eleven 1
@@ -2112,6 +2122,27 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
+#EXTINF:-1 tvg-chno="75"  tvg-name="DAZN LaLiga"  tvg-logo="https://bit.ly/3SpOwV9" group-title="DEPORTES ESPAÑA", DAZN LaLiga
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium538/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="75.1" tvg-name="DAZN 1"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXMSw-ThVNtrqD_TwmLiKoInrm2XpLp3cyQ&usqp=CAU" group-title="DEPORTES ESPAÑA" , Dazn 1 🇪🇸
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy5.mizhls.ru/ddy5/premium445/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="75.2" tvg-name="DAZN 2" group-title="DEPORTES ESPAÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83tJW-8lf8b-YKZ51OLBpZwHTXkCeRp3hAQ&usqp=CAU" , Dazn 2 🇪🇸
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy1.mizhls.ru/ddy1/premium446/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="75.5" tvg-name="Eurosport 1"  group-title="DEPORTES ESPAÑA" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1 1080
 http://185.189.225.157/EuroSport1/index.m3u8
 
@@ -2120,6 +2151,9 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-chno="75.7" channel-id="Teledeporte" tvg-name="Teledeporte"   tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20230913T030616SQUARE.png_20230913030616.png" group-title="DEPORTES ESPAÑA" , Teledeporte 
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-id="UK | TNT Sports Ultimate" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%20Ultimate.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | TNT Sports Ultimate
+https://7pal.short.gy/TNTUltimate
 
 #EXTINF:-1 tvg-chno="77.1" tvg-id="I1262.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://epgx.site/p/bt-sport1.png" group-title="#🇬🇧 UK Sport 🇬🇧#",TNT Sports 1 
 #EXTVLCOPT:network-caching=1000
@@ -2150,35 +2184,35 @@ https://ddh1.mizhls.ru/ddh1/premium33/tracks-v1a1/mono.m3u8
 https://ddh1.mizhls.ru/ddh1/premium34/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-chno="77.6"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Football.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Football
+#EXTINF:-1 tvg-chno="77.6" tvg-name="UK | Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Football.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Football
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy1.mizhls.ru/ddy1/premium35/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="77.7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Premier%20League.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Premier League
+#EXTINF:-1 tvg-chno="77.7" tvg-name="UK | Sky Sport Premier League" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Premier%20League.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Premier League
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy1.mizhls.ru/ddy1/premium130/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="77.8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Main Event
+#EXTINF:-1 tvg-chno="77.8" tvg-name="UK | Sky Sport Main Event" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Main Event
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy1.mizhls.ru/ddy1/premium38/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="77.9"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Action.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Action
+#EXTINF:-1 tvg-chno="77.9" tvg-name="UK | Sky Sport Action" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Action.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Action
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8
 
-#EXTINF:-1 tvg-chno="77.10" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Arena.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Arena
+#EXTINF:-1 tvg-chno="77.10" tvg-name="UK | Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Arena.png" group-title="#🇬🇧 UK Sport 🇬🇧#", UK | Sky Sport Arena
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT--http-reconnect=true
@@ -2202,7 +2236,12 @@ https://webhdrunns.mizhls.ru/lb/premium550/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="79.9" tvg-id="" group-title="SPORTS ARABIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713", ABU DHABI SPORT 🇦🇪
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy6.mizhls.ru/ddy6/premium609/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="79.10" tvg-id="" group-title="SPORTS ARABIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713",Abu Dhabi Sports 2 🇦🇪
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
@@ -2278,6 +2317,8 @@ https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 tvg-chno="85.5" tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS WORLD",SPORT PLUS 
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 
+#EXTINF:-1 tvg-chno="85.6" tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS WORLD", G R 
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 
 
 #EXTINF:-1 tvg-chno="87"  tvg-name="" tvg-id="Arena Sport 1 Premium BiH.ba" url-tvg="" tvg-logo="https://epgx.site/p/arena-premium-1.png" group-title="SPORTS ARENA SPORTS",Arena Premium 1 🇧🇦
@@ -2349,6 +2390,29 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
+
+#EXTINF:-1 tvg-chno="88.1" tvg-name="Матч! Футбол 1" group-title="SPORTS RUSIA" tvg-logo="https://new.matchtv.ru/assets/202311271424/images/channels/8.jpg" , Матч! Футбол 1 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-chno="88.2" tvg-logo="https://new.matchtv.ru/assets/202311271424/images/channels/14.jpg" group-title="SPORTS RUSIA", Матч! Футбол 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "kid": "VvfctdIO7tIS/1hiCsuJMQ", "k": "duE5wGdu0teuRjks5v2eiQ"}], "type": "temporary"}
+https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
+
+#EXTINF:-1 tvg-chno="88.3" tvg-id="Матч! Футбол 3" tvg-name="" logo="https://epgx.site/p/match-football3.png" group-title="SPORTS RUSIA",Матч! Футбол 3 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
+https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
+
 
 
 #EXTINF:-1 tvg-chno="89.1" tvg-name="SuperSport MáXimo 1" tvg-id="SuperSport MáXimo 1" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/XHD.png" group-title="SPORTS South Africa", SuperSport MáXimo 1 🇿🇦
