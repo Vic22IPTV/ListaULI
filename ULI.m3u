@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://www.bevy.be/bevyfiles/mexico2.xml,https://www.bevy.be/bevyfiles/mexico.xml,https://www.bevy.be/bevyfiles/peru.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml,https://i.mjh.nz/Plex/mx.xml,https://i.mjh.nz/Plex/us.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/es.xml,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz,https://i.mjh.nz/Roku/all.xml,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz,https://raw.githubusercontent.com/dtankdempse/tubi-m3u/refs/heads/main/tubi_epg_us.xml,https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz,https://www.bevy.be/bevyfiles/chile2.xml,https://www.bevy.be/bevyfiles/argentina1.xml,https://www.bevy.be/bevyfiles/costarica1.xml,https://www.bevy.be/bevyfiles/colombia2.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://www.bevy.be/bevyfiles/polandpremium.xml,https://www.bevy.be/bevyfiles/southafrica1.xml,https://www.bevy.be/bevyfiles/russia1.xml,https://www.bevy.be/bevyfiles/bosnia2.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/lithuania1.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/madagascarpremium.xml,https://www.bevy.be/bevyfiles/italy1.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://i.mjh.nz/SkySportNow/epg.xml,https://www.bevy.be/bevyfiles/uaepremium3.xml,https://www.bevy.be/bevyfiles/croatia3.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://www.bevy.be/bevyfiles/mexico2.xml,https://www.bevy.be/bevyfiles/mexico.xml,https://www.bevy.be/bevyfiles/peru.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml,https://i.mjh.nz/Plex/mx.xml,https://i.mjh.nz/Plex/us.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/es.xml,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz,https://i.mjh.nz/Roku/all.xml,https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz,https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz,https://raw.githubusercontent.com/dtankdempse/tubi-m3u/refs/heads/main/tubi_epg_us.xml,https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz,https://www.bevy.be/bevyfiles/chile2.xml,https://www.bevy.be/bevyfiles/argentina1.xml,https://www.bevy.be/bevyfiles/costarica1.xml,https://www.bevy.be/bevyfiles/colombia2.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://www.bevy.be/bevyfiles/polandpremium.xml,https://i.mjh.nz/DStv/za.xml,https://www.bevy.be/bevyfiles/russia1.xml,https://www.bevy.be/bevyfiles/bosnia2.xml,https://www.bevy.be/bevyfiles/indonesia1.xml,https://www.bevy.be/bevyfiles/lithuania3.xml,https://www.bevy.be/bevyfiles/latvia1.xml,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/madagascar1.xml,https://www.bevy.be/bevyfiles/italy1.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://i.mjh.nz/SkySportNow/epg.xml,https://www.bevy.be/bevyfiles/uaepremium3.xml,https://www.bevy.be/bevyfiles/croatia3.xml"
 
 
 #EXTINF:-1 tvg-chno="5" tvg-id="CANAL 5.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="⚽FUTBOL LIGA MX⚽", Canal 5 MX op2
@@ -1599,28 +1599,28 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://juntos-freetv.amagi.tv/Juntos-roku/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="62.1" channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png"  group-title="Cine USA" , Cine Premiere 🇺🇸
+#EXTINF:-1 tvg-chno="62.1" channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png"  group-title="Cine pluto USA" , Cine Premiere 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="62.2" channel-id="pluto-5cf96b1c4f1ca3f0629f4bf0" tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png"  group-title="Cine USA" , Séptimo arte 🇺🇸
+#EXTINF:-1 tvg-chno="62.2" channel-id="pluto-5cf96b1c4f1ca3f0629f4bf0" tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png"  group-title="Cine pluto USA" , Séptimo arte 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="62.3" channel-id="pluto-64b9671cdac71b0008f371df" tvg-id="64b9671cdac71b0008f371df" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png"  group-title="Cine USA" , Cine Clásico 🇺🇸
+#EXTINF:-1 tvg-chno="62.3" channel-id="pluto-64b9671cdac71b0008f371df" tvg-id="64b9671cdac71b0008f371df" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png"  group-title="Cine pluto USA" , Cine Clásico 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9671cdac71b0008f371df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="62.4" channel-id="pluto-60fb2f47c133270007327375" tvg-id="60fb2f47c133270007327375" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png"  group-title="Cine USA" , Pelis y Popcorn 🇺🇸
+#EXTINF:-1 tvg-chno="62.4" channel-id="pluto-60fb2f47c133270007327375" tvg-id="60fb2f47c133270007327375" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png"  group-title="Cine pluto USA" , Pelis y Popcorn 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="62.5" channel-id="pluto-5d8d164d92e97a5e107638d2" tvg-id="5d8d164d92e97a5e107638d2" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG-1623101979398.png"  group-title="Cine USA" , Cine adrenalina 🇺🇸
+#EXTINF:-1 tvg-chno="62.5" channel-id="pluto-5d8d164d92e97a5e107638d2" tvg-id="5d8d164d92e97a5e107638d2" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG-1623101979398.png"  group-title="Cine pluto USA" , Cine adrenalina 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="62.6" channel-id="pluto-5d8d180092e97a5e107638d3" tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png"  group-title="Cine USA" , Cine terror 🇺🇸
+#EXTINF:-1 tvg-chno="62.6" channel-id="pluto-5d8d180092e97a5e107638d3" tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png"  group-title="Cine pluto USA" , Cine terror 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="62.7" channel-id="pluto-5f513564e4622a0007c578c0" tvg-id="5f513564e4622a0007c578c0" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png"  group-title="Cine USA" , Cine ¡¡jaja!! 🇺🇸
+#EXTINF:-1 tvg-chno="62.7" channel-id="pluto-5f513564e4622a0007c578c0" tvg-id="5f513564e4622a0007c578c0" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png"  group-title="Cine pluto USA" , Cine ¡¡jaja!! 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="62.8" channel-id="pluto-5f5136317aedfb0007016f93" tvg-id="5f5136317aedfb0007016f93" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="Cine USA" , Cine XOXO 🇺🇸
+#EXTINF:-1 tvg-chno="62.8" channel-id="pluto-5f5136317aedfb0007016f93" tvg-id="5f5136317aedfb0007016f93" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="Cine pluto USA" , Cine XOXO 🇺🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -1661,7 +1661,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="64.3"channel-id="plex-608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a" tvg-id="608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png" group-title="Cine PLEX" , Cine en Español
 https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/cb57381b6570678a84cb3a64cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee05a168c6bf3b101489c2e47fa83439c8201e988825f83158070f9169894f589d417d38c81599306f224365a37739d8c7ce1bb37c6d99564779d7c25495047f3ad87f74339dc0e293ffcf6cfcd2795539c8873d96360ec599b17dd67db3af20cf2b819a3fde3da47163ca197023777f4bfd5e0933423ad59f5a3e4d80115f391066d49dd64d527714bfa91cc1094d12a95b92d96b167094aa3fb24cac7d9e98bb7895a8e57a9ad95c8673b2411070d8849a79479e425d46eaddd0733594c49dff93fa5d783345a01438b942cb7797ae981fee9b30d33cb6e155fe45fd75a0869be51061ff738f7c05606ea220491475e913965da3796da25e5d5b48f6b6fe0909510ab21bee0589ca15af329563701bcfc385a4b5842c3eb671e3f77b1378ea3ebd15e3613e9f6def1ce7d2d0a3b124056cf8892739480d42c1302fe43346f7005149316e967de0d4c7245a377e1893958a4250400c3fd4737316893deb88282e9c745be7aa1a6975e2b3e4a68a93c157c1ab9dc984ac22859776c5c83161625d7630b7bc4d893b4f3ed6fde8c5bb92c6d0666fae5054d7b12191d028f8478c404addc0aae8c844ed9e1991b488072b7175f9ad5ca65fbe8929d3a65f6b95411669edd55ae1944f532e407a9f155f5950f11765e5549b09f3ef072b6c593cb279b63f801533ea24fb292e7bcc17516c9a50a626347054c3f657f225aec81957c562fa5fc06f64deaee62ac407f3a2b088bd15710d5be3754b71d4a4d89ec8b87a4c10650ed6bf77ec62943855f1f21ecc977bbd1e6bdaac93f1a509985aa4abab381ce99859d682d5d5e0bf1b337afb267478aee22c2ef7a59ec9c8ae1d57ce50d885788a5c6e060a1c2b1d13da18589f6bb561a5b485effc08d9a5ebbee4d2de90aa58aa530d2157b2b1cff76812cd0d56e40cf764fa33b6c54caaab423dd2aa1e7283fee8b5394b41e3decefe52f10c425e8757c2db185b66735cbcc18800db5a1b75e1cc25845a470576ffa28a1c7a73f3ba8fc321041e10e308975afc1cd130c21f9dc35736a45273d3dfc6c106ce83761a05a95e1e1ba6769ce22821d30b27ce09305f3ec5ca0a38aa3eed63963a6e50559a75cb045ea75bcace5920fad5d65a57f825a33f6adbbd0fcac96e7818f641972f0639406cf7a9fbcd9b27d140577db4f760a1ff513c7041e40d6a371cfb4467889cef76196504c242e63469e5c7d2c1cfa34485e281737dc/56/1920x1080_5500000/index.m3u8
-#EXTINF:-1 tvg-chno="64.4"channel-id="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5-mx" tvg-id="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5" tvg-chno="" tvg-name="CinEspanto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71c3f630-16dd-451f-bca8-f75f6ca16a81/CinEspanto_LAS_Attribution_Logordx.png" group-title="Cine PLEX", CinEspanto
+
+#EXTINF:-1 tvg-chno="64.4" channel-id="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5-mx" tvg-id="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5" tvg-chno="" tvg-name="CinEspanto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71c3f630-16dd-451f-bca8-f75f6ca16a81/CinEspanto_LAS_Attribution_Logordx.png" group-title="Cine PLEX", CinEspanto
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5.m3u8
 #EXTINF:-1 tvg-chno="64.5"channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png"  group-title="Cine PLEX" , Cine Real (FreeTVDrama)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
@@ -1811,13 +1812,13 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-chno="67.4" tvg-id="HBO 2.co" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="HBO🎦" ,  HBO 2.co
-
-#EXTINF:-1 tvg-chno="67.4" tvg-id="I922.80118.schedulesdirect.org" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="HBO🎦" ,  HBO 2  HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97e3eead4a275f6488f6da95a1cc3037:e9be0998551ff741ff4990d7458fdb9b
 https://1137-tbx.dtvott.com/hbo2la/manifest.mpd
+
+#EXTINF:-1 tvg-chno="67.4" tvg-id="I921.80652.schedulesdirect.org" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="HBO🎦" ,  HBO 2  HD
 
 #EXTINF:-1 tvg-chno="67.4" tvg-id="I348.80652.schedulesdirect.org" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" group-title="HBO🎦" ,  HBO 2  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1901,7 +1902,7 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
 #EXTINF:-1 tvg-chno="69" tvg-id="CINEMAX.mx" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Cine PREMIUM🎦" tvg-shift="", Cinemax (Mexico) (CINEMAX)
 
-#EXTINF:-1 tvg-chno="69" tvg-id="I523.59965.zap2it.com" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Cine PREMIUM🎦", Cinemax HD
+#EXTINF:-1 tvg-chno="69" tvg-id="Cinemax HD.cl" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Cine PREMIUM🎦", Cinemax HD
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/82
 
 #EXTINF:-1 tvg-chno="69" tvg-id="I623.16794.schedulesdirect.org" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Cine PREMIUM🎦" , Cinemax Este
@@ -1983,7 +1984,7 @@ http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 https://webhdrunns.mizhls.ru/lb/premium66/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-id="I464.75176.zap2it.com" tvg-name=""  tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="⚽FUTBOL LIGA MX⚽" ,TUDN Univision 🇺🇸
-https://8.tutl24.xyz/dash/ST087e6438aba77f1.mpd
+#https://8.tutl24.xyz/dash/ST087e6438aba77f1.mpd
 
 #EXTINF:-1 tvg-chno="99.4"channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png"  group-title="⚽FUTBOL LIGA MX⚽" , Zona TUDN 🇺🇸 
 #https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
@@ -2344,10 +2345,8 @@ https://jmp2.uk/rok-b6a492b04d7d534fa0e9e69380382d02.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-HBO-Boxing.m3u8
 
 #EXTINF:-1 tvg-chno="70.15" tvg-id="Arena Fight.ba" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="BOX 🥊",Arena Fight HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 #EXTINF:-1 tvg-chno="70.16" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtfaW_DcrYZZ-jPGAgMRuAjDJra2OUix8WQ&usqp=CAU" group-title="BOX 🥊" , DAZN COMBAT
@@ -3076,83 +3075,124 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-030/stream.mpd
 #EXTINF:-1 tvg-chno="84.5" tvg-name="" tvg-id="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/92786494-7218-4eff-b1b4-a33be915cd58-sport-italia-1633528365.png" group-title="sportS ITALIA",SPORTitalia PLUS 
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 
+#EXTINF:-1 tvg-chno="85.1" tvg-id="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="IND Sport",Champions TV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
-#EXTINF:-1 tvg-chno="85" tvg-id="" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png" group-title="SPORTS WORLD",Setanta Sports 1 🇺🇦
-https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+#EXTINF:-1 tvg-chno="85.2" tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHhZ7FRYzUwguZEO9bMS6h2EcUVm15_UO7S752Zxbd-WU7D6ck_J2zzg&s=10" group-title="IND Sport",Champions TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 
-#EXTINF:-1 tvg-chno="85.1" tvg-id=""  tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png" group-title="SPORTS WORLD", Setanta Sports 1 🇺🇦
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="85.2" tvg-id="" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-eurasia-plus.png" group-title="SPORTS WORLD", Setanta Sports 2 🇷🇺
-https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="85.3" tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf2N_wkrTS5jjukrnos87k58yyzuD7mZTqA&s" group-title="IND Sport",Champions TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
-#EXTINF:-1 tvg-chno="85.3" tvg-id=""  tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tv8-5-turkey.png" group-title="SPORTS WORLD", TV8 5 🇹🇷
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1 tvg-chno="85.5" tvg-id="Champions TV 5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="IND Sport",Champions TV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
-#EXTINF:-1 tvg-chno="85.4" tvg-id="" tvg-logo="https://i.ibb.co.com/jf7QwkY/vijuplusport.png" group-title="SPORTS WORLD", Viju+ Sport 🇰🇿
-http://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="85.6" tvg-id="Champions TV 6.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="IND Sport",Champions TV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+
+#EXTINF:-1 tvg-chno="85.7" tvg-id="Premier League TV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="IND Sport",Premier League TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6ade57e9ae9cea4b28633888a84c448:84e4765e17259dd014b51d2d166ac63e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
+
+#EXTINF:-1 tvg-chno="85.8" tvg-id="823.astro" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="IND Sport", SPOTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50053fb452c6b15716f8eb9b0e524278:c2608ef05318c7d7ea9b3694798cb15f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=17139&type=dash
+
+#EXTINF:-1 tvg-chno="85.9" tvg-id="824.astro" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="IND Sport",SPOTV 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8d8f85d7592b081f4290a200156543cf":"aee1c7339ec279a0461500a737b3218e"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
+
+
+#EXTINF:-1 tvg-chno="85.10" tvg-id="Bein 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="IND Sport",Bein 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
+
+#EXTINF:-1 tvg-chno="85.11" tvg-id="Bein 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/4Gq0GkWs-JKQ0i7xVY6j7Uap14Y=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="IND Sport",Bein 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d8181bca994eaa57329e04c98122868":"da9b3e7a19a1430b19047792fc6add67"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=17875&type=dash
+
+#EXTINF:-1 tvg-chno="85.12" tvg-id="Bein 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="IND Sport",Bein 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b5dfecbb10fe0d3638ea692f9c501d69":"a0c27751c01554f8d792304c82303955"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 
 
 
-#EXTINF:-1 tvg-chno="86.1" tvg-id="Arenasport 1 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",Arena Sport 1 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.1" tvg-id="Arenasport 1 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",Arena Sport 1 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0": "7099325123bae7810db508727bb0bc7d", "c43c83acda60593d8e3607efd5010d7d": "526f4a760ef52ab85056fbc10ea27584", "712090aae2065c21951b170bc3002330": "a97774e4175b80205c3cf104e9574208"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.2" tvg-id="Arenasport 2 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png",Arena Sport 2 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.2" tvg-id="Arenasport 2 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png",Arena Sport 2 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329": "3defe59c38079ccad25a436200ad3bd7", "b2f22f5d7ca35910a73fbabc524954de": "d87d08fbe6505ad7099b8c258f396d15", "d256b403efcc5c3db701fc696885e102": "d46e4215e279b224e9d2a772db9c74a1"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.3" tvg-id="Arenasport 3 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png",Arena Sport 3 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.3" tvg-id="Arenasport 3 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png",Arena Sport 3 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3bedf4a896695958907e0984165090f0": "a58317ffddf318f1540f31f67d95b5fb", "25c3df3202005cc98c47700295be59ca": "073f5a39d84dd14a9debd1a72bb1f055", "ccebefcba0a3546ba34d3fc587651708": "18f2b2027ce26867c23dcd7f57faa245"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.4" tvg-id="Arenasport 4 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png",Arena Sport 4 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.4" tvg-id="Arenasport 4 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png",Arena Sport 4 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764": "bf1178841770fdba74f8629f0f06d2c0", "68cd661dbc8352fda000c532840f6340": "0255fb620f4f707ea7ba090058718306", "89d1dc54692e5b4fb5995fc0953bf5bf": "31b8953ab60b90fefc93d9bd1b806fbc"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.5" tvg-id="Arenasport 5 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png",Arena Sport 5 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.5" tvg-id="Arenasport 5 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png",Arena Sport 5 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34a709bbeac052f293c778c0770829fd": "2b801fde1ad4839d4080d6ec6b0ec4ce", "e473ec5d96f45a9f9a22eb665b5b1ea9": "ace54ce15b69d249b00395c9e6b85b90", "18d3fba08f3152c38f14151219fa9792": "78b0c5b961351e482be81287466ecb08"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.6" tvg-id="Arenasport 6 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-06.png",Arena Sport 6 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.6" tvg-id="Arenasport 6 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-06.png",Arena Sport 6 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b3b60e79989a5b2799fa3a2394b8749f": "a25d21e333dad3d131f126b7b57730be", "bfd8ff04a3625fcea8335c9575401697": "769d61a2d6fd7030a5088df2e70c2654", "5a86e42c58cf5d008546861c0f0fb22a": "67b1172a05bcb38a91a304d7098ce7f5"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.7" tvg-id="Arenasport 7 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-07.png",Arena Sport 7 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.7" tvg-id="Arenasport 7 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-07.png",Arena Sport 7 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5998265ef8fc5748822fef96229831aa": "9110b6be31b4bbdce67374bae3395269", "5d4b5005dbd355559b3c7fe4dae1fb05": "10e65a5b74158216190e654cdf05b584", "5244c72f4f5d5e1a8778fc93906c9cb3": "4c14a6a924ef7fb32534dd590d99d499"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.8" tvg-id="Arenasport 8 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-08.png",Arena Sport 8 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.8" tvg-id="Arenasport 8 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-08.png",Arena Sport 8 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c6fc5b27b74e5b8e82ca19da484eb174": "51f8fd5eef736dccaea9235b621731e7", "b9e9546bc9ba52d1a75fba9222efa7f5": "2cec65c6b79be6c2d4481c6e0ef79bfc", "ca202ac1353a5c6b9960bdbb82f88efc": "7ef86abd9a62042858370852836c50b4"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.9" tvg-id="Arenasport 9 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-09.png",Arena Sport 9 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.9" tvg-id="Arenasport 9 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-09.png",Arena Sport 9 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe": "0000816079a5ec4f093e3274bda26f2a", "a2ff372a21b35653a88592abfec3f9a7": "d5bc25088d1fda12849aad90716de750", "7ecfd12eb26258c381afadac16ac8fc9": "b4f351533d633abf76cda47fe75d579b"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
 
-#EXTINF:-1 tvg-chno="86.10" tvg-id="Arenasport 10 HD.hr" group-title="Arena Sport" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-10.png",Arena Sport 10 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-chno="86.10" tvg-id="Arenasport 10 HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-10.png",Arena Sport 10 Croatia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f": "b573f718f1551d2cf2a335ca778f5604", "03ed75ef7e4c56cb8f81cc17952fc554": "2be3b8e9f4756601e5b263beb14c5908", "ea5736047df25edbb48bd055d48eb3dd": "8b40d3a415517224245a79e907cb8ef0"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
-
 
 #EXTINF:-1 tvg-chno="87"  tvg-id="Arena Sport 1 Premium BiH.ba" url-tvg="" tvg-logo="https://epgx.site/p/arena-premium-1.png" group-title="SPORTS ARENA SPORTS",Arena Premium 1 🇧🇦
 #EXTVLCOPT:network-caching=1000
@@ -3169,59 +3209,41 @@ https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8
 https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8
 
 #EXTINF:-1 tvg-chno="87.2" tvg-id="Arena Sport 3 Premium BiH.ba" url-tvg="" tvg-logo="https://epgx.site/p/arena-premium-3.png" group-title="SPORTS ARENA SPORTS",Arena Premium 3 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 #EXTINF:-1 tvg-chno="87.3"  tvg-id="Arena Sport 1 BiH.ba" tvg-name=""  url-tvg="" tvg-logo="https://epgx.site/p/arena-sport-1.png" group-title="SPORTS ARENA SPORTS",Arenasport 1 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #EXTINF:-1 tvg-chno="87.4" tvg-id="Arena Sport 2 BiH.ba"  tvg-logo="https://epgx.site/p/arena-sport-2.png" group-title="SPORTS ARENA SPORTS",Arenasport 2 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 #EXTINF:-1 tvg-chno="87.5" tvg-id="Arena Sport 3 BiH.ba"  tvg-logo="https://epgx.site/p/arena-sport-3.png" group-title="SPORTS ARENA SPORTS",Arenasport 3 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #EXTINF:-1 tvg-chno="87.6" tvg-id="Arena Sport 4 BiH.ba"  tvg-logo="https://epgx.site/p/arena-sport-4.png" group-title="SPORTS ARENA SPORTS",Arenasport 4 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 #EXTINF:-1 tvg-chno="87.7" tvg-id="Arena Sport 5 BiH.ba"  tvg-logo="https://epgx.site/p/arena-sport-5.png" group-title="SPORTS ARENA SPORTS",Arenasport 5 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #EXTINF:-1 tvg-chno="87.8" tvg-id="Arena Sport 6 BiH.ba" tvg-logo="https://epgx.site/p/arena-sport-6.png" group-title="SPORTS ARENA SPORTS",Arenasport 6 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 #EXTINF:-1 tvg-chno="87.9" tvg-id="Arena Sport 1x2.ba" group-title="SPORTS ARENA SPORTS"  tvg-logo="https://epgx.site/p/arena-sport-7.png" group-title="SPORTS ARENA SPORTS",ARENA SPORT 1x2 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 #EXTINF:-1 tvg-chno="87.10" tvg-id="Premier League TV.ba" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="SPORTS ARENA SPORTS",Arena Sport Premier League 🇧🇦
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
@@ -3274,6 +3296,9 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
 http://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
+
+
+
 
 
 
