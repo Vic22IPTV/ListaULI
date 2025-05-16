@@ -2012,6 +2012,7 @@ http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#KODIPROP:inputstream.adaptive.license_key=https://key2.keylocking.ru/wmsxx.php?test=true&name=premium66&number=1
 https://windnew.newkso.ru/wind/premium66/mono.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-id="I464.75176.gracenote.com" tvg-name=""  tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="⚽FUTBOL LIGA MX⚽" ,TUDN Univision 🇺🇸
