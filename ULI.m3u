@@ -3304,6 +3304,10 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?i
 
 
 
+#EXTINF:-1 tvg-chno="92.1" tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , DSPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Canal.5.(XHPNH).mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", Canal 5 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3314,41 +3318,6 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl6
 #EXTINF:-1 tvg-chno="29" tvg-id=""  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , La 1 1080
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=6835a3a03564dbf41f0e0b52&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENRE=entertainment&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=16&AV_CLIENT_SECTION=RTVE_la1&content_channel_name=LA1&content_livestream=1&AV_CONTENT_PROVIDER=RTVE&ads.vidaa_ads_param=1190602996
 
-#EXTINF:-1 tvg-chno="92.1" tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , DSPORTS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-
-#EXTINF:-1 tvg-chno="84.10" tvg-id="São.Paulo/SP..SporTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", São Paulo/SP  SporTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-
-#EXTINF:-1 tvg-chno="76" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", TSN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-
-#EXTINF:-1 tvg-chno="92.5" tvg-id="Win.Sports+.co"  tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽", Win Sports+.co 🇨🇴
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
-
-#EXTINF:-1 tvg-chno="92.6" tvg-id="Win.Sports.co"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽", Win.Sports.co
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2747488564e7e1f8e0f8bb25d349e3ba:edbcebc4f3b9ac228eed0cc29739bc0c
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-chno="81.21" tvg-id="HTV1.HD.hr"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", HRT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
-https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
-
 
 #EXTINF: -1 tvg-chno="71.3" tvg-id="FS1.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", Fox Sports 1 US HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3356,16 +3325,42 @@ https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.Pacific.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , Telemundo West
+#EXTINF:-1 tvg-chno="84.21" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", CAZE TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a195c95880e37688286e0a6117a336f:e6cba1c52ebee16289775f5164daece7
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
 
 #EXTINF:-1 tvg-chno="77" tvg-id="" tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/social/public/itv_logo_blk.jpg?itok=8AahafqO" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", UK - ITV 1
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/uk_itv1/index.m3u8
+
+#EXTINF:-1 tvg-chno="88.9" tvg-id="ct-sport" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://iptvx.one/picons/ct-sport.png", ČT Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash3.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-chno="73.10" tvg-name="PT | Sport TV 5" logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/112/" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" ,PT | Sport TV 5
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , Telemundo EAST
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+
+#EXTINF:-1 tvg-chno="76" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", TSN 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+
 
 #EXTINF:-1 tvg-chno="83" tvg-id="match-tv" tvg-logo="https://epg.iptvx.one/picons/match-tv.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , Матч! 🇷🇺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
