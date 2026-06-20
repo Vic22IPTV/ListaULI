@@ -415,6 +415,7 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
 
 
+
 #EXTINF:-1 tvg-chno="20" tvg-id="I428.12712.schedulesdirect.org" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV Latinoamerica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -441,7 +442,8 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/AQUIJ2A/3F13C2D5DEBB/m.m3u8
 
 #EXTINF:-1 tvg-chno="20.4" channel-id="plex-608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3" tvg-id="608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png" group-title="Música" , VR+
 
-#EXTINF:-1 tvg-chno="20.4" tvg-id="TRACE.Latina.distro" tvg-logo="https://a.jsrdn.com/hls/23073/trace-latina/thumbh_20240812_171646_270.jpg" group-title="Música", TRACE LATINA
+#EXTINF:-1 tvg-chno="20.4" tvg-id="" tvg-logo="" group-title="Música", ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-chno="20.5" channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png"  group-title="Música Rock" , Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
@@ -694,19 +696,16 @@ https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.
 
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.Pacific.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="TELEMUNDO" , Telemundo West
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a195c95880e37688286e0a6117a336f:e6cba1c52ebee16289775f5164daece7
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd
+
 
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="TELEMUNDO" , Telemundo EAST
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
 #EXTINF:-1 tvg-chno="25.1" tvg-id="I406.77606.schedulesdirect.org" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="TELEMUNDO",US - Telemundo Chicago
 
 #EXTINF:-1 tvg-chno="25.1" tvg-id="Telemundo.Satellite.Feed.Pacific.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽FUTBOL LIGA MX⚽",US - Telemundo LA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
 
 
 #EXTINF:-1 tvg-chno="25.2" tvg-id="I406.77606.schedulesdirect.org" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="TELEMUNDO",Telemundo New York 
@@ -732,17 +731,13 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-chno="25.9" tvg-id="I410.14791.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO",UNIVERSO HDTV (East) 
 
 #EXTINF:-1 tvg-chno="25.10" tvg-id="I410.14791.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO", NBC Universo (East) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
 
 #EXTINF:-1 tvg-chno="25.11" tvg-id="Universo" tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO", NBC Universo (East) HD
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="25.12" tvg-id="I410.91588.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="TELEMUNDO", NBC Universo (West) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
+
 
 #EXTINF:-1 tvg-chno="25.13" tvg-id="" tvg-name="" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-360x360,f_auto,q_auto:best/rockcms/2025-02/Thumbnail-LCDLFAS24-7Generic-6a6d15.jpg"  group-title="TELEMUNDO", LA CASA DE LOS FAMOSOS C-1
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
@@ -1464,7 +1459,10 @@ https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
 https://dish.akamaized.net/Content/DASH/Live/channel(investigationdiscoveryhd)/variant.mpd
 
 #EXTINF:-1 tvg-chno="39.1" tvg-id="I431.109896.schedulesdirect.org" tvg-name="Investigation Discovery (Mexico) (ID)"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png"  group-title="Crimen y Misterio" , ID | HD
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff2428725df0386279b6eea57985b792:bc7e76d37f8b357707778bfd66ae7944
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ID_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-chno="39.1" tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-name=""tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png"  group-title="Crimen y Misterio" , ID sur
 
@@ -2426,10 +2424,19 @@ https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/in
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 #EXTINF:-1 tvg-chno="92.2" tvg-id="DSPORTS 2" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" group-title="Deportes SUDAMERICA" , DSPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
 #EXTINF:-1 tvg-chno="92.3" tvg-id="DSPORTS+" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-title="Deportes SUDAMERICA" , DSPORTS+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
 #EXTINF:-1 tvg-chno="92.4" tvg-id="DSPORTS Fight" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png" group-title="Deportes SUDAMERICA" , DSPORTS Fight
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 
 #EXTINF:-1 tvg-chno="92" tvg-id="TYC SPORTS.ar" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes SUDAMERICA" , TyC Sports w
@@ -2442,18 +2449,6 @@ https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/variant.mpd
 #EXTINF:-1 tvg-chno="92.4"channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="Deportes SUDAMERICA"  , Chilevision Deportes Solo Chilenos
 
 
-#EXTINF:-1 tvg-chno="92.5" tvg-id="Win.Sports+.co"  tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png"  group-title="FUTBOL COLOMBIANO", Win Sports+.co 🇨🇴
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd
-
-#EXTINF:-1 tvg-chno="92.6" tvg-id="Win.Sports.co"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/250px-Win_Sports_nuevo_logo.svg.png"  group-title="FUTBOL COLOMBIANO", Win.Sports.co
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2747488564e7e1f8e0f8bb25d349e3ba:edbcebc4f3b9ac228eed0cc29739bc0c
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINSPORTS_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-chno="92.7" tvg-name="Futgo" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="Deportes SUDAMERICA",FutGO 🇨🇱
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
@@ -2934,22 +2929,14 @@ https://live-manifest.production-public.tubi.io/live/08bf183c-0d2b-405a-b31b-e30
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=244377d3-af04-45a5-b1ac-2eaeac56dbbe&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
-
-
 #EXTINF:-1 tvg-chno="76" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="SPORTS Canada 🇨🇦", TSN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-chno="76" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="SPORTS Canada 🇨🇦", TSN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://qw.live.pv-cdn.net/OTTB/sin-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-chno="76.1" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18990_dark_360w_270h.png" group-title="SPORTS Canada 🇨🇦", TSN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-chno="76.2" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90118_dark_360w_270h.png" group-title="SPORTS Canada 🇨🇦", TSN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2964,7 +2951,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTINF:-1 tvg-chno="76.4" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90124_dark_360w_270h.png" group-title="SPORTS Canada 🇨🇦", TSN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+
 
 #EXTINF:-1 tvg-chno="77.1" tvg-id="I1241.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="#🇬🇧 UK Sport 🇬🇧#",TNT Sports 1 🇬🇧
 #EXTVLCOPT:http-origin=https://aesport.tv
@@ -3304,6 +3293,7 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?i
 
 
 
+
 #EXTINF:-1 tvg-chno="92.1" tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , DSPORTS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
@@ -3328,16 +3318,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #EXTINF:-1 tvg-chno="84.20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", CAZÉ TV 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-
 #EXTINF:-1 tvg-chno="84.21" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", CAZE TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-chno="84.22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", CAZE TV2 brazil
+
+#EXTINF:-1 tvg-chno="76" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", TSN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-chno="76.3" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90122_dark_360w_270h.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", TSN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-chno="77" tvg-id="" tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/social/public/itv_logo_blk.jpg?itok=8AahafqO" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", UK - ITV 1
 #EXTVLCOPT:http-origin=https://aesport.tv
@@ -3365,8 +3362,6 @@ http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , Telemundo EAST
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
-#EXTINF:-1 tvg-chno="76" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", TSN 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
 #EXTINF:-1 tvg-chno="37.2" tvg-id="" tvg-name="" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", US - Fox 32 Chicago
 http://stream.cammonitorplus.net/1772/index.m3u8
@@ -3384,7 +3379,22 @@ https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="⚽MUNDIAL DE FUTBOL 2026⚽",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
+#EXTINF:-1 tvg-id="TVP1.pl@SD"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽",TVP1 (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="TVP2.pl@SD"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽",TVP2 (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="TVPSport.pl@SD"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽",TVP Sport (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png" group-title="JP 🇯🇵",NHK G
+http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls
 
 
 
