@@ -3278,14 +3278,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 
 #EXTINF:-1 tvg-chno="92.1" tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , DSPORTS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 
+#EXTINF:-1 tvg-chno="92.2" tvg-id="DSPORTS 2" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , DSPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #EXTINF:-1 tvg-chno="92.3" tvg-id="DSPORTS+" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽"  , DSPORTS+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Canal.5.(XHPNH).mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", Canal 5 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3311,6 +3315,11 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
+#EXTINF:-1 tvg-chno="84.22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", CAZE TV2 brazil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a29e3b7dc26ced80114da99266ea636:9f1e4034545fed90b5ce7a8f8925e621
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
 
 #EXTINF:-1 tvg-chno="76" tvg-id="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", TSN 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3319,11 +3328,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-chno="92" tvg-id="TYC SPORTS.ar" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , TyC Sports w
-http://liontv.es:8080/live/NESTORCHI/GRETF/834974.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , DAZN
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-chno="77" tvg-id="" tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/social/public/itv_logo_blk.jpg?itok=8AahafqO" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", UK - ITV 1
 #EXTVLCOPT:http-origin=https://aesport.tv
@@ -3344,19 +3348,18 @@ https://dash3.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
 
-
-#EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , Telemundo EAST
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+#EXTINF:-1 tvg-logo=""  group-title="⚽MUNDIAL DE FUTBOL 2026⚽",Sporza
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 
 
 #EXTINF:-1 tvg-chno="37.2" tvg-id="" tvg-name="" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", US - Fox 32 Chicago
-http://stream.cammonitorplus.net/1772/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd
 
-#EXTINF:-1 tvg-chno="37.2" tvg-id="" tvg-name="" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", US - Fox NEW YORK
-http://stream.cammonitorplus.net/1780/index.m3u8
 
 #EXTINF:-1 tvg-chno="83" tvg-id="match-tv" tvg-logo="https://epg.iptvx.one/picons/match-tv.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , Матч! 🇷🇺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3368,7 +3371,34 @@ https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
+#EXTINF:-1 group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://i.ibb.co.com/M6sxvYN/eulabel.png",Tipik 1 🇧🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
+#EXTINF:-1 tvg-logo=""  group-title="⚽MUNDIAL DE FUTBOL 2026⚽" ,VRT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo=""   group-title="⚽MUNDIAL DE FUTBOL 2026⚽" ,M6 France
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
+#EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , Telemundo EAST
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+
+#EXTINF:-1 tvg-chno="92" tvg-id="TYC SPORTS.ar" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , TyC Sports w
+http://liontv.es:8080/live/NESTORCHI/GRETF/834974.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽" , DAZN
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-id="TVP1.pl@SD"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽",TVP1 (1080p)
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
@@ -3379,8 +3409,15 @@ https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="TVPSport.pl@SD"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽",TVP Sport (1080p)
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png" group-title="JP 🇯🇵",NHK G
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽",NHK G
 http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls
+
+EXTINF:-1 group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
+
+
+
+
 
 
 
