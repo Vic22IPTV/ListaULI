@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-chno="7" tvg-id="I270.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="⚽MUNDIAL DE FUTBOL 2026⚽", AZTECA 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Canal.5.(XHPNH).mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="⚽FUTBOL LIGA MX⚽" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png", Canal 5 MX op2
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
@@ -95,7 +95,7 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333
 
 #EXTINF:-1 tvg-chno="7" tvg-id="I270.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", AZTECA 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="I234.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", Azteca 7 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3354,6 +3354,12 @@ https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 
+#EXTINF:-1 tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽",FRANCE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 #EXTINF:-1 tvg-chno="37.2" tvg-id="" tvg-name="" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="⚽MUNDIAL DE FUTBOL 2026⚽", US - Fox 32 Chicago
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3376,17 +3382,6 @@ https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo=""  group-title="⚽MUNDIAL DE FUTBOL 2026⚽" ,VRT 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
-
-#EXTINF:-1 tvg-logo=""   group-title="⚽MUNDIAL DE FUTBOL 2026⚽" ,M6 France
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 #EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
@@ -3414,6 +3409,7 @@ http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls
 
 EXTINF:-1 group-title="⚽MUNDIAL DE FUTBOL 2026⚽" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
+
 
 
 
