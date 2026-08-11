@@ -64,7 +64,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 #EXTINF:-1 tvg-chno="4.3" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/TV%20Cuatro.png" group-title="TV Nacional",TV Cuatro 4.3
 https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4.4" tvg-id="TV Cuatro 4.4" tvg-name="TV Cuatro 4.4" tvg-logo="https://www.tvcuatro.com/images/deportes-01.png" group-title="TV NacionalL",TV Cuatro 4.4 
+#EXTINF:-1 tvg-chno="4.4" tvg-id="TV Cuatro 4.4" tvg-name="TV Cuatro 4.4" tvg-logo="https://www.tvcuatro.com/images/deportes-01.png" group-title="TV Nacional",TV Cuatro 4.4 
 https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Canal.5.(XHPNH).mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 HD
@@ -184,7 +184,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="15.6" tvg-id="XEIMT.22.Nacional.(XEIMT).mx" tvg-name="XEIMT.22.Nacional.(XEIMT).mx" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116168_dark_360w_270h.png" group-title="TV Nacional", CANAL 22 
 
 #EXTINF:-1 tvg-chno="15.6" tvg-id="Canal.22.de.México.mx" tvg-name="Canal 22" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116168_dark_360w_270h.png" group-title="TV Nacional", Canal 22
-https://s5.mexside.net:1936/stream/stream/playlist.m3u8
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w432012015.m3u8
 
 
 #EXTINF:-1 tvg-chno="15.6" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV Nacional", TV UNAM
@@ -215,10 +215,11 @@ https://stream.aprende.gob.mx/live/hls/index.m3u8
 #EXTINF:-1 tvg-chno="15.17" tvg-id="JUSTICIA TV.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/justicia_tv.png" group-title="TV Nacional", PLURAL TV 
 https://live-scjn.ovp-vivaro.digital:443/ovp-origin/638a22b47746d/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="15.18" tvg-id="" tvg-logo="https://www.capital21.cdmx.gob.mx/logooficial.png" group-title="TV Nacional", CAPITAL21 
+#EXTINF:-1 tvg-chno="15.18" tvg-id="" tvg-logo="https://www.capital21.cdmx.gob.mx/logooficial.png" group-title="TV Nacional", CAPITAL 21 
 https://video.cdmx.gob.mx/redes/stream.m3u8?
 
-
+#EXTINF:-1 tvg-chno="15.19" tvg-id="" tvg-logo="" group-title="TV Nacional", canal 10 chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-id="" tvg-logo="https://i.postimg.cc/D04KCVWn/canalo.jpg" group-title="ANIME",Canal Anime Onegai 
 
@@ -246,18 +247,13 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8
 #https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11855
 
-#EXTINF:-1 tvg-chno="17.4" channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Infantil" , Bob Esponja Pantalones Cuadrados
-
-#EXTINF:-1 tvg-chno="17.5" channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png"  group-title="Infantil" , Nickelodeon en español
-
-#EXTINF:-1 tvg-chno="17.6" channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png"  group-title="Infantil" , Nickelodeon Clásico
 
 #EXTINF:-1 tvg-chno="17.7" tvg-id="En Familia (Rakuten TV)" tvg-name="En Familia (Rakuten TV)" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/55bcbbe9-d8ec-45de-849e-775854edea1e.jpeg"  group-title="Infantil" , En Familia (Rakuten TV)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=2cd83bf2-766a-4591-8220-b79b52a61c36&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
 
 #EXTINF:-1 tvg-chno="17.8" tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/thumbh_20230426_174328_270.jpg" group-title="Infantil",Kids TV  
 
-#EXTINF:-1 tvg-chno="17.9" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQeBrI0otPkA8s9h65pCCL6G2KbfEM-Gz0eFpEF_A=s176-c-k-c0x00ffffff-no-rj" group-title="Infantil", 123 Go Spanish (MX)
+#EXTINF:-1 tvg-chno="17.9" tvg-id="643054b1fc3be59477853717-63eecb32ac23d1ee072087cb" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQeBrI0otPkA8s9h65pCCL6G2KbfEM-Gz0eFpEF_A=s176-c-k-c0x00ffffff-no-rj" group-title="Infantil", 123 Go Spanish (MX)
 https://amg02051-soulpublishing-amg02051c3-lg-mx-586.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="17.10" tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99991687/100x100.webp?type=color_onBlack" group-title="Infantil", Moji TV
@@ -496,10 +492,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/pla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="21" channel-id="plex-608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995" tvg-id="608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png" group-title="Novelas" , Todo Novelas
-https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="TNT.Novelas.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="Novelas", TNT Novelas FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdee0f86736487e4d0137d46eb7dc0fb:1751603a6aca9ffb044a4b60efd68fd1
+https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd
 
-#EXTINF:-1 tvg-chno="21" channel-id="samsung-ESBC43000013T" tvg-id="ESBC43000013T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png"  group-title="Novelas" , Todo Novelas
 
 #EXTINF:-1 tvg-chno="21.1" tvg-id="novelas-turcas" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Novelas",Novelas Turcas
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
@@ -516,7 +515,8 @@ https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-chno="21.3"channel-id="pluto-639751f81a36b400072b8f5a" tvg-id="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png"  group-title="Novelas" , Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="21.4" tvg-id="novelisima" tvg-name="Novelísima" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Novelas", Novelísima 
+#EXTINF:-1 tvg-chno="21.4" channel-id="plex-608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995" tvg-id="608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png" group-title="Novelas" , Todo Novelas
+https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="21.5" channel-id="3bc1756db0ef525b9cab86edcd426c55" tvg-id="3bc1756db0ef525b9cab86edcd426c55 tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Novelas" ,  Canela.TV Narco-Drama
@@ -528,13 +528,6 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-chno="21.6" tvg-id="fa7c1fc64ab453e28165ee3125742c67" channel-id="roku-fa7c1fc64ab453e28165ee3125742c67"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20230321T235909SQUARE.png_20230321235909.png" group-title="Novelas",Sony One Novelas
 https://3bf6b3a5ee6c407b80425cf2105dd961.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG_SonyCanalNovelas/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="21.7" tvg-id="TNT.Novelas.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="Novelas", TNT Novelas FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdee0f86736487e4d0137d46eb7dc0fb:1751603a6aca9ffb044a4b60efd68fd1
-https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd
 
 
 #EXTINF:-1 tvg-chno="21.10" channel-id="SamsungTVPlus-USBD2700002DU" tvg-name="Galanes" tvg-id="USBD2700002DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20240528T020915SQUARE.png" group-title="Novelas",Galanes
@@ -684,8 +677,11 @@ http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 tvg-chno="25.2" tvg-id="I406.77606.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO",Telemundo New York 
 
 
-#EXTINF:-1 tvg-chno="25.3" tvg-id="I2.1.43328.schedulesdirect.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO" , Telemundo Puerto Rico
+#EXTINF:-1 tvg-chno="25.3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO" , Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-chno="25.3"  tvg-id="" tvg-logo="https://i.postimg.cc/jdzvqF07/punto2.jpg" group-title="TELEMUNDO", Telemundo | Punto 2 | Puerto Rico (PR)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-chno="25.4" tvg-id="99951459" tvg-name="Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.png?type=color_onBlack" group-title="TELEMUNDO",Telemundo Deportes Ahora
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_web_telemundodeportesahora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_vcid2=512116:b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=
@@ -841,7 +837,8 @@ https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-chno="29.9" tvg-id="TVG"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" group-title="TV Española 🇪🇸" , TVG
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="29.10" tvg-id="Factoría de Ficción"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="TV Española 🇪🇸" , Factoría de Ficción 1080
+#EXTINF:-1 tvg-chno="29.10" tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="TV Española 🇪🇸" , ARAGON TV
+https://streamer97.server.aranova.cloud/clsdvr/live/aragontv_canal1_1500/index.m3u8?vv=MX&h=YawaM1A74B2PJULkc8--dg&e=31373836343232313337&r=4363
 
 #EXTINF:-1 tvg-chno="29.11" tvg-id="Neox"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="TV Española 🇪🇸" , Neox 1080
 
@@ -864,8 +861,6 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=283ebc0dcc0ad5220cc9476fb2bd9b38:6c5120bd84de6233793e0ec556612e6d
 https://dish.akamaized.net/Content/DASH/Live/channel(animalplanethd)/variant.mpd
 
-#EXTINF:-1 tvg-chno="30.1" tvg-id="oficios-perdidos" tvg-name="oficios-perdidos" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png" group-title="Documental" , Oficios Perdidos
-
 
 #EXTINF:-1 tvg-chno="30.2"  tvg-id="FV679190"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20230912T232514SQUARE.png_20230912232515.png" group-title="Documental" , Aquí y Ahora
 https://d3unbvkahyadn8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4ftct3puiiwx/server/distrib/Akpqp9fxaoNEhJdj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqkX5uHc8eRVb60iX16U2aobDsXJ7NO8RHvpYQqDRkxZBBpnbZ30EfJ5Y7DcgknHG0y0NUVhfFbcGhU1QwKDtyRDiVTRz1qnPiGPx2pDTzYwjy3Cnzu3H8a8QqSN81xrBbMn_a9QPbLYBiU0Vxpp51_nSkXqaALVcAlHcIBricX_5kWp2LS7TLb7_M73T_C0JUA/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1700015J1
@@ -877,10 +872,6 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aaaba7689ac
 #EXTINF:-1 tvg-chno="30.3"  channel-id="ESBC4700002TD" tvg-id="ESBC4700002TD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png"  group-title="Documental" , Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetes-samsungspain-w1r0c.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30.4" tvg-id="03a419fc4dff59b39b176d9f76b09e38" channel-id="03a419fc4dff59b39b176d9f76b09e38" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653084282760_LoveNature_260x147_HUDenEspanol.png" group-title="Documental", Love Nature Spanish
-
-#EXTINF:-1 tvg-chno="30.4" tvg-id="03a419fc4dff59b39b176d9f76b09e38" channel-id="03a419fc4dff59b39b176d9f76b09e38" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653084282760_LoveNature_260x147_HUDenEspanol.png" group-title="Documental", Love Nature Spanish
-
 
 #EXTINF:-1 tvg-chno="30.6" tvg-id="naturaleza" tvg-name="Naturaleza" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9a75a1bd-ce98-4585-abff-49949b91ed63-naturaleza-1630568601.jpeg" group-title="Documental" , Naturaleza
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=0305fa03-eaf0-4a02-bc2b-c09374e10b35&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_streamId=88883049
@@ -889,13 +880,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=16d38417-c3b9-4c56-a4c6-e716bf44f43a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-
-
-#EXTINF:-1 tvg-chno="30.9" channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Documental" , Pluto TV Misterios
-
-#EXTINF:-1 tvg-chno="30.10" channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="Documental" , Archivos Extraterrestres
-
-#EXTINF:-1 tvg-chno="30.11" channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Documental" , Pluto TV Animales
 
 #EXTINF:-1 tvg-chno="30.12" tvg-id="098bce44be895630a3e437516fe70853" channel-id="098bce44be895630a3e437516fe70853" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/098bce44be895630a3e437516fe70853/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704747063109_NaturalezaSalvaje_Image_HUD2.png" group-title="Documental", Naturaleza Salvaje
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
@@ -1057,7 +1041,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd
 #EXTINF:-1 tvg-chno="33.6" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20HD.png"  group-title="Series y Peliculas" , AXN 1080
 
 
-#EXTINF:-1 tvg-chno="33.7" tvg-id="I678.90605.schedulesdirect.org" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="Series y Peliculas", Studio Universal
+#EXTINF:-1 tvg-chno="33.7" tvg-id="Canal.Studio.Universal.(México).mx" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="Series y Peliculas", Studio Universal
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1126,8 +1110,6 @@ https://dish.akamaized.net/Content/DASH/Live/channel(UniversalReality)/manifest.
 
 #EXTINF:-1 tvg-chno="35.3" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png" group-title="Entretenimiento" , El Hormiguero 1080
 
-#EXTINF:-1 tvg-chno="35.4" tvg-id="5de91b7ea86ee60009d89e75" tvg-name="MTV Reality"  tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="Entretenimiento" , MTV Reality
-
 #EXTINF:-1 tvg-chno="35.5" tvg-id="Flooxer" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png" group-title="Entretenimiento" , Flooxer 1080
 
 #EXTINF:-1 tvg-chno="35.8"  tvg-id="USBA300004TE" tvg-name="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20240520T215826SQUARE.png" group-title="Entretenimiento",Dallas Cowboys Cheer
@@ -1135,14 +1117,13 @@ https://dish.akamaized.net/Content/DASH/Live/channel(UniversalReality)/manifest.
 #EXTINF:-1 tvg-chno="35.9"  tvg-id="99951565" tvg-name="Jajaja" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20240520T212922SQUARE.png" group-title="Entretenimiento", ViX JaJaJa
 https://dbrb49pjoymg4.cloudfront.net/10001/99951565/hls/playlist.m3u8?ads.xumo_channelId=99951565&ads.xumo_streamId=99951565&ads.channelId=99951565&ads.channelName=TelevisaUnivisionJajaja_us&ads.xumo_channelName=TelevisaUnivisionJajaja&ads.caid=TelevisaUnivisionJajaja&ads.csid=xumo_web_TelevisaUnivisionJajaja_ssai&ads.genre=Comedy,CV,CS,GV,IAB1,IAB1-7,IAB1-4&ads._fw_content_genre=Comedy,CV,CS,GV,IAB1,IAB1-7,IAB1-4&ads._fw_coppa=0&ads.xumo_contentId=4479&ads.xumo_contentName=TelevisaUnivisionJajaja&ads.xumo_providerId=4479&ads.xumo_providerName=TelevisaUnivisionJajaja&ads._fw_ifa_type=&ads._fw_did=f03d1c7a-b8fb-49e4-9e9c-572cb3f6e41d&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 
-#EXTINF:-1 tvg-chno="35.10" tvg-id="FV268943"  tvg-logo="https://img.vidaahub.com/s3_bucket/60110/live/60110_293/9291bf8a76db4e2c794c90aa34f143d4" group-title="Entretenimiento",Como Dice el Dicho
+#EXTINF:-1 tvg-chno="35.10" tvg-id="FV268943" tvg-logo="https://img.vidaahub.com/s3_bucket/60110/live/60110_293/9291bf8a76db4e2c794c90aa34f143d4" group-title="Entretenimiento",Como Dice el Dicho
 https://dcs3-live.mp.lura.live/server/play/jWKwKpTWEZGBcx2j/manifest.m3u8?encp=B2F60S9qKc0osm338Ax_wg:x_pJBu7CIYQWQ7JxgyfR4tkjdokDWup_sjIscNX7wvBJEXnY-y8AIMxs9RAUaWp-k3t15s0gi9zThRYsZg3hGk_pH5IEsrlyefemWGc6xrLlK-ET_5dmOqvLCfftoXMfWMkmV9LBKuebBfi_154qM5R1E7XZs_Rve2-7CzSs7XLjeHVIiwdYo4R_hUVpvKnAgWuY8V255j6hNgQUU3HkArpHXPtWIX_Z49Bnuw086zal8J2HR29-No1SgNuMTfOO4659BM8TRo6l9ZWvZZsSKeUSwVTZ6sPudCvyuwW0o6U2y450yZMvGcYTL9aO77Nlj6OXX6MiOGLrvpw-Rwhti2rN4AL_9c82qgsplOpnPXlG8Ueal-obvqRpYCm5tQ4ZGwcEtXic1_JlqkDzNvrQ-1IMn96IBAuS4NjBXqnF_VzQGAIKGUgtGK8Ajctl4Vv8zPmiJfsHB3n3klAm4sRLqdasXvLHAGzHzVI1eSimqed5DwtmpR-l5RWleKa1Wp1xaIUZJhISU2U64hcGLogrHBQRNP_99otmE3G-5gCo4xDHc9YcInMf08PueiuZsDZktctz7sHK2DHpfR33au9Ds_dFsONXEGR-e5-D4A3cvcue7ETYvYaadrDocy-4H1TJWR9pJM3Wga8XTNldByja9K9jfW_uoeCJCllIcAkZgBXQ0RGyKrr7xEwVaDim6QbR-S_WjOPPqTldSscEJ3hZ3A&anvauth=tb=0~te=2082758400~sgn=f5481e50993b4624e38500bf051da9d8e5773d3a5ef22903349760f9ea03e80e&t=1706655453&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6465
 #EXTINF:-1 tvg-chno="35.11" tvg-id="99991204" tvg-name="Just for Laughs Gags" tvg-logo="https://image.xumo.com/v1/channels/channel/99991204/168x168.png?type=color_onBlack" group-title="Entretenimiento", Just for Laughs Gags
 https://live-content.xumo.com/146/content/XM02PEKFAD11IF/22182172/master.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="NAT GEO.ar" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5fyYBH_uJCBFhRXpK02f1VOfUK2S6HXtg&usqp=CAU"  group-title="Culturales" ,National Geographic Channel (nexgen)
 
-#EXTINF:-1 tvg-chno="36" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5fyYBH_uJCBFhRXpK02f1VOfUK2S6HXtg&usqp=CAU"  group-title="Culturales" ,National Geographic LatinoAmerica HD
+#EXTINF:-1 tvg-chno="36" tvg-id="Canal.National.Geographic.(México).mx" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5fyYBH_uJCBFhRXpK02f1VOfUK2S6HXtg&usqp=CAU"  group-title="Culturales" ,National Geographic MX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1166,13 +1147,6 @@ https://dish.akamaized.net/Content/DASH/Live/channel(national_geographic)/varian
 https://dish.akamaized.net/Content/DASH/Live/channel(tlchd)/variant.mpd
 
 #EXTINF:1 tvg-chno="36.6" tvg-id="Inquietos atresplayer" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png" group-title="Culturales" , Inquietos atresplayer 1080
-
-
-#EXTINF:-1 tvg-chno="36.6" channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Culturales" , Pluto TV Aventura
-
-#EXTINF:-1 tvg-chno="36.7" channel-id="pluto-5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Culturales" , Misterios Medicos
-
-#EXTINF:-1 tvg-chno="36.10" tvg-id="66ba53cda4ee2700083fac09" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" group-title="Culturales" , Sala de Emergencias: Historias Inéditas 🇲🇽
 
 
 #EXTINF:-1 tvg-chno="37" tvg-id="USA.Network.HD.us2" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg" group-title="USA LOCAL🇺🇸" , USA Network East
@@ -1285,7 +1259,7 @@ https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/
 https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd?0GKUSH_R4IN
 
 
-#EXTINF:-1 tvg-chno="37.10" tvg-id="BYU-TV.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/BYU_TV_2019.svg/revision/latest?cb=20190216174254.png" group-title="USA LOCAL🇺🇸", BYUtv
+#EXTINF:-1 tvg-chno="37.10" tvg-id="BYU-TV.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21855_dark_360w_270h.png" group-title="USA LOCAL🇺🇸", BYUtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85877dfc046947328b273987bf8d5bb8":"c465f8a7b9db273043154005021d44b7"}
@@ -1307,7 +1281,7 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(D
 #EXTINF:-1 tvg-chno="38" tvg-id="673249ccc7626f0008c72076" tvg-name="" tvg-logo="https://images.pluto.tv/channels/673249ccc7626f0008c72076/colorLogoPNG.png" group-title="Culturales" , TuDiscovery
 https://amg00136-amg00136c59-canelatv-international-6415.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-tudiscovery-canelatvinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Culturales", Discovery Channel LatinoAmerica
+#EXTINF:-1 tvg-chno="38" tvg-id="Canal.Discovery.Channel.(México).mx" tvg-name="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Culturales", Discovery Channel MX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1315,13 +1289,12 @@ https://amg00136-amg00136c59-canelatv-international-6415.playouts.now.amagi.tv/p
 https://dish.akamaized.net/Content/DASH/Live/channel(discoverychannelhd)/variant.mpd
 
 
-
 #EXTINF:-1 tvg-chno="38.1" tvg-id="Discovery Science MX" tvg-name="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Culturales" , Discovery Science Latinoamerica
 
 #EXTINF:-1 tvg-chno="38.1" tvg-id="Discovery Science MX" tvg-name="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Culturales" , Discovery Science Latinoamerica
 
 
-#EXTINF:-1 tvg-chno="38.2" tvg-id="I217.59582.schedulesdirect.org" tvg-name="217" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Discovery_HnH_2022.svg/revision/latest/scale-to-width-down/76?cb=20220506181345" group-title="Culturales" , DISCOVERY H&H 
+#EXTINF:-1 tvg-chno="38.2" tvg-id="Canal.Discovery.Home.&amp;.Health.(México).mx" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Discovery_HnH_2022.svg/revision/latest/scale-to-width-down/76?cb=20220506181345" group-title="Culturales" , DISCOVERY H&H 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1331,7 +1304,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(discoveryhomeandhealthhd)/v
 #EXTINF:-1 tvg-chno="38.3" tvg-id="Discovery Theater MX" tvg-name="Discovery Theater" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png"  group-title="Culturales"  , Discovery Theater HD
 
 
-#EXTINF:-1 tvg-chno="38.4" tvg-id="I228.66488.schedulesdirect.org" tvg-name="Discovery World HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png"  group-title="Culturales"  , Discovery World HD
+#EXTINF:-1 tvg-chno="38.4" tvg-id="Canal.Discovery.World.Latinoamérica.mx" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png"  group-title="Culturales"  , Discovery World HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1346,7 +1319,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(discoveryworld)/variant.mpd
 
 #EXTINF:-1 tvg-chno="38.5" tvg-name="Discovery 1080" tvg-logo="https://i.ibb.co/nnf5htr/discoch.png" group-title="Culturales" , Discovery 1080
 
-#EXTINF:-1 tvg-chno="38.6" channel-id="SamsungTVPlus-US2600019IC" tvg-name="Historia" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Culturales",Historia
+#EXTINF:-1 tvg-chno="38.6" channel-id="SamsungTVPlus-US2600019IC" tvg-name="Historia" tvg-id="US2600019IC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20241002T233733SQUARE.png" group-title="Culturales", Historia
 https://d1k3vzh2ivy22k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qcrc8tbcr8e9/Historia.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2600019IC
 
 #EXTINF:-1 tvg-chno="38.8" tvg-id="" tvg-name="Historia 1080"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="Culturales" ,Historia 1080
@@ -1439,10 +1412,6 @@ https://aka-live1050.delivery.roku.com/c2a45163-8533-481a-b2bf-e4174affaf6b/t2-o
 #EXTINF:-1 tvg-chno="39.8" channel-id="plex-608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843" tvg-id="608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="Crimen y Misterio", Zona Investigación
 https://atresmedia-zitv-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="39.9" channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png"  group-title="Crimen y Misterio" , Pluto Investiga
-
-#EXTINF:-1 tvg-chno="39.9" channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Crimen y Misterio",Pluto TV Investiga
-
 
 #EXTINF:-1 tvg-chno="39.10" tvg-id="ES:.Archivos.Forenses.be" tvg-name="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg" group-title="Crimen y Misterio" , Archivos Forenses
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=ArchivosForenses&ads.csid=zeus_es_archivosforenses_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3901&ads.rakuten_streaming_id=a2b25006-326d-417e-9313-7a4eb9e316cd&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883012&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=FilmRiseTrueCrimeMexico&ads.xumo_streamId=88883012
@@ -1461,12 +1430,16 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="Canal.Universal.TV.(República.Dominicana).dk" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Canales WEB",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canales WEB", CANAL 57
+#EXTINF:-1 tvg-chno="57"  tvg-id="" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Canales WEB", CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-chno="58.1" channel-id="608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7" tvg-id="608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7"tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="💢FILMS 24/7💢", Cindie TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+
+#EXTINF:-1 tvg-chno="58.2" tvg-id="Mi.Miedo.Canal.distro" tvg-logo="https://i.postimg.cc/ncNJZRXB/mimiedo.jpg" group-title="💢FILMS 24/7💢", Mi Miedo 
+https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="60" channel-id="" tvg-name="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Thriller-Terror 🇪🇸
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
@@ -1575,8 +1548,7 @@ https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 
 #EXTINF:-1 tvg-chno="63.9"  tvg-id="5dd7ea2aeab5230009986735" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Cine pluto USA",Pluto TV Cine Romance
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=a9ff1f58-9358-11f1-9424-7ced8dc70384&clientModelNumber=1.0.0&country=MX&deviceDNT=false&deviceId=a9ff1f58-9358-11f1-9424-7ced8dc70384&deviceLat=25.6500&deviceLon=-100.3300&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=aa0bc7dd-9358-11f1-97b2-1e22dafe735a&sid=aa0bc7dd-9358-11f1-97b2-1e22dafe735a&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg4MzBhYzQyLWRlZTMtNDBiYy1iMzJiLTMzNjQ2MjczODJiZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhYTBiYzdkZC05MzU4LTExZjEtOTdiMi0xZTIyZGFmZTczNWEiLCJjbGllbnRJUCI6IjIwMC42OC4xMjguODMiLCJjaXR5IjoiU2FuIFBlZHJvIEdhcnphIEdhcmNpYSIsInBvc3RhbENvZGUiOiI2NjI2NiIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjI1LjY0OTk5OTYxODUzMDI3MywiZGV2aWNlTG9uIjotMTAwLjMzMDAwMTgzMTA1NDY5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjEuMCIsImNsaWVudElEIjoiYTlmZjFmNTgtOTM1OC0xMWYxLTk0MjQtN2NlZDhkYzcwMzg0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTW9udGVycmV5Iiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiYTlmZjFmNTgtOTM1OC0xMWYxLTk0MjQtN2NlZDhkYzcwMzg0IiwiZndWY0lEMkNvcHBhIjoiYTlmZjFmNTgtOTM1OC0xMWYxLTk0MjQtN2NlZDhkYzcwMzg0IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJhOWZmMWY1OC05MzU4LTExZjEtOTQyNC03Y2VkOGRjNzAzODQiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIxMDQ1IiwiX2Z3XzNQX1VJRCI6IklETDpBbVFJMjVsYnpnNXVQNnQ0VS1fbS1fYkc1TjUzSmxLOFhXb2ZHLW9QX1AzbGQ4cER4VDN0clFaRTBlcC14Smk0R0ZZMWFmR01iU2FyRGhZTExSRkdxbjNscTIwZ2xhQi1mWlFjeUhIelFhYXNGczI0XzVHeWtGeVJiTkhQUHpGYm43ejZqSXdXTVRhY2ZNTTVUbWV6aktPTHcwTS1PNFNoTk9lcHVvMHhwemFQaV9CZk5WTHAxRmF5S3JGNm83VVdfd1RRei1HY0VnYjVYRWx0UVlmRGdDV3RkQ3RjSWd2dXlzeGRqblVOaVhJNFg3dHZQVFFwemlFMU5aemJBTkdPdFM4ZG9XTjIwb2VENUl3OTZuZzlvSmU2Sm1LUGFudkF1TVVJeU9OLU1jVUZ5U2IwNWFMY3R5Nk9FSFpBUEVnd09qdERlRWM3Qjg3NHRwZEFBc293dktqTERFVmJqR0VjMjNMLVhIaFB1dyIsImZtc19ydWxlaWQiOiIxMDAyMCwxMDAyMSwxMDAyMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAwMCwxMDAwOSwxMDAxMyJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4NjIxNDQ0NDQ0OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOllUbG1aakZtTlRndE9UTTFPQzB4TVdZeExUazBNalF0TjJObFpEaGtZemN3TXpnMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODYzMDA4NDQsImlhdCI6MTc4NjIxNDQ0NCwianRpIjoiZTg1Y2M0MjYtYmJkOC00ZDI1LWJjN2QtNzgxNjhiMDM2YjgyIn0.63W69B0dVam2dI9dn8Z7u_FOg3W4XPMqabTMthQMTyc&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
-
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
 
 
 
@@ -1621,8 +1593,7 @@ https://jmp2.uk/stvp-USBD2700005KL
 
 #EXTINF:-1 tvg-chno="65.7" channel-id="pelimex" group-title="Cinema"  tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA948/0-16x9.jpg?width=160&updatedTime=0&dt=Web"  , Pelimex
 #https://telecine-pelimex-1-us.tcl.wurl.tv/playlist.m3u8
-#https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
-https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
+https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="65.8" channel-id="cine-picante" group-title="Cinema"  tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA880/0-16x9.jpg?width=160&updatedTime=0&dt=Web"  , Cine Picante
 https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
@@ -1786,9 +1757,8 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/
 #KODIPROP:inputstream.adaptive.license_key=7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0
 https://dish.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
 
-#EXTINF:-1 tvg-chno="67.6" tvg-id="Canal.HBO.Xtreme.cl" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png" group-title="HBO🎦" ,HBO XTREME HD cl
 
-#EXTINF:-1 tvg-chno="67.6" tvg-id="Canal.HBO.Xtreme.mx" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png" group-title="HBO🎦" , HBO Xtreme 🇲🇽
+#EXTINF:-1 tvg-chno="67.6" tvg-id="Canal.HBO.Xtreme.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="HBO🎦" , HBO Xtreme 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1899,7 +1869,7 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(U
 
 #EXTINF:-1 tvg-chno="69" tvg-id="I173.101730.schedulesdirect.org" tvg-name="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416645-8c.png" group-title="Cine PREMIUM🎦" , Cinemax 
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Cinemax.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/35975/s34933_ll_h15_ab.png" group-title="Cine PREMIUM🎦"  Cinemax (audio ing-esp)
+#EXTINF:-1 tvg-chno="69" tvg-id="Cinemax.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/35975/s34933_ll_h15_ab.png" group-title="Cine PREMIUM🎦"  Cinemax 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1917,8 +1887,6 @@ https://a61aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bkuv
 
 
 #EXTINF:-1 tvg-chno="69.1" tvg-id="I167.67687.schedulesdirect.org"  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="Cine PREMIUM🎦",  CineCanal HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5575c4cac7dd0aba98835c5b59a0c62:48cb36a63c1526132d4f969a10d6eec3
 https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd
@@ -1933,8 +1901,10 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd
 #EXTINF:-1 tvg-chno="69.3" tvg-id="Cine Sony" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="Cine PREMIUM🎦" tvg-shift="", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="69.4" tvg-id="MoreMax.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10121/s10121_ll_h15_ad.png" group-title="Cine PREMIUM🎦" , MoreMax 🇺🇸 (seleccionar subtitulos)
-
+#EXTINF:-1 tvg-chno="69.4" tvg-id="MoreMax.HD.us2" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/more-max-logo-png-transparent.png" group-title="Cine PREMIUM🎦" , MoreMax 🇺🇸 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
 #EXTINF:-1 tvg-chno="69.4" tvg-id="I427.107890.schedulesdirect.org" tvg-name="Morbido Terror" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107890_dark_360w_270h.png" group-title="Cine PREMIUM🎦",Morbido Terror
 
@@ -1975,7 +1945,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(526dd1aa-3af4-bca0-f021-f48
 
 #EXTINF:-1 tvg-chno="69.8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TV_Cortos.svg/200px-TV_Cortos.svg.png" group-title="Cine PREMIUM🎦", TVCORTOS
 
-#EXTINF:-1 tvg-chno="69.8"  channel-id="017397f76bae510a8a9800c4b94eaa40" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cine PREMIUM🎦",ViX Cine Club
+#EXTINF:-1 tvg-chno="69.8"  channel-id="017397f76bae510a8a9800c4b94eaa40" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN19UyFfMVo4grm2ehET6HVQ8fBgg-8I-7lwqZQncvAQ&s=10.PNG" group-title="Cine PREMIUM🎦",ViX Cine Club
 https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-chno="69.8" tvg-id="Multicine atresplayer" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" group-title="Cine PREMIUM🎦", Multicine atresplayer 1080
@@ -1991,10 +1961,7 @@ https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origi
 
 #EXTINF:-1 tvg-chno="69.11" tvg-id="Cinemax.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/35975/s34933_ll_h15_ab.png" group-title="Cine PREMIUM🎦🇺🇸" , Cinemax 🇺🇸 
 
-#EXTINF:-1 tvg-chno="69.12" tvg-id="MoreMax.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10121/s10121_ll_h15_ad.png" group-title="Cine PREMIUM🎦🇺🇸" , MoreMax 🇺🇸 (seleccionar subtitulos)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
+
 
 #EXTINF:-1 tvg-chno="69.13" tvg-id="Starz.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12719/s12719_ll_h15_ac.png" group-title="Cine PREMIUM🎦🇺🇸" , Starz East 🇺🇸 (seleccionar subtitulos)
 
@@ -2266,10 +2233,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-chno="93.2" tvg-id="I89.34863.schedulesdirect.org"  tvg-logo="https://provider-static.plex.tv/epg/cms/production/94b95e02-4cd5-4739-bb43-cd2a26158a85/aym_sports_logo_light_-_Jordan_Warkol.png" group-title="Deportes Streaming" , Aym Sports TV
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="93.3" tvg-id="I89.34863.schedulesdirect.org" group-title="Deportes Streaming" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png" group-title="Deportes Streaming",  AyM Sports 2
+#EXTINF:-1 tvg-chno="93.3" tvg-id="I89.34863.schedulesdirect.org" group-title="Deportes Streaming" tvg-logo="https://aymsports.net/tv/assets/libs/images/landing/aym-hd-logo.png?v=2" group-title="Deportes Streaming",  AyM Sports 2
 https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
 
-#EXTINF:-1 tvg-chno="93.4" channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Deportes Streaming" , AyM Sports 3
+
+#EXTINF:-1 tvg-chno="93.4" channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://aymsports.net/tv/assets/libs/images/landing/channels/aymsports3.png" group-title="Deportes Streaming" , AyM Sports 3
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 
@@ -2637,6 +2605,8 @@ https://aka-live1050.delivery.roku.com/9a96e3b7-2f33-43e0-98c7-921d673642d3/t2-o
 
 #EXTINF:-1 tvg-chno="71.19" tvg-id="ESBD2600001ME" tvg-name="ESBD2600001ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png" group-title="Tennis Channel 🎾",Tennis Channel | Samsung TV Plus 
 
+
+
 #EXTINF:-1 tvg-chno="71.20" tvg-id="Golf.Channel.HD.us2" tvg-logo="https://i.ibb.co.com/Rykhd2s/nbcgolf.png" group-title="SPORTS altern🏅" ,  NBC GOLF CHANNEL 🇺🇸
 
 #EXTINF:-1 tvg-chno="71.20" tvg-id="Golf.Channel.HD.us2" tvg-logo="https://i.ibb.co.com/Rykhd2s/nbcgolf.png" group-title="SPORTS altern🏅" ,  GOLF CHANNEL 🇺🇸 
@@ -2693,81 +2663,85 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="73" tvg-id="eleven-sport1-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="SPORTS PORTUGAL" , DAZN 1 PT
+#EXTINF:-1 tvg-chno="73" tvg-id="PT | DAZN 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="SPORTS PORTUGAL" , PT | DAZN 1
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.1" tvg-id="eleven-sport2-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="SPORTS PORTUGAL" , DAZN 2 PT
+#EXTINF:-1 tvg-chno="73.1" tvg-id="PT | DAZN 2" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="SPORTS PORTUGAL" , PT | DAZN 2
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.2" tvg-id="eleven-sport3-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="SPORTS PORTUGAL" , DAZN 3 PT
+#EXTINF:-1 tvg-chno="73.2" tvg-id="PT | DAZN 3" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="SPORTS PORTUGAL" , PT | DAZN 3
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.3" tvg-id="eleven-sport4-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="SPORTS PORTUGAL" , DAZN 4 PT
+#EXTINF:-1 tvg-chno="73.3" tvg-id="PT | DAZN 4" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="SPORTS PORTUGAL" , PT | DAZN 4
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.4" tvg-id="eleven-sport5-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" group-title="SPORTS PORTUGAL" , DAZN 5 PT
+#EXTINF:-1 tvg-chno="73.4" tvg-id="PT | DAZN 5" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" group-title="SPORTS PORTUGAL" , PT | DAZN 5
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport5/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.5" tvg-id="eleven-sport6-pt" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" group-title="SPORTS PORTUGAL"  , DAZN 6 PT
+#EXTINF:-1 tvg-chno="73.5" tvg-id="PT | DAZN 6" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" group-title="SPORTS PORTUGAL"  , PT | DAZN 6
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_elevensport6/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="73.6" tvg-id="sporttv1-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201.png" group-title="SPORTS PORTUGAL" , Sport TV 1 [PT]
+#EXTINF:-1 tvg-chno="73.6" tvg-id="PT | Sport TV 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 1
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv1/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.7" tvg-id="sporttv2-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202.png" group-title="SPORTS PORTUGAL" , Sport TV 2 [PT]
+#EXTINF:-1 tvg-chno="73.7" tvg-id="PT | Sport TV 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 2
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv2/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.8" tvg-id="sporttv3-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png" group-title="SPORTS PORTUGAL" , Sport TV 3 [PT]
+#EXTINF:-1 tvg-chno="73.8" tvg-id="PT | Sport TV 3" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 3
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv3/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.9" tvg-id="sporttv4-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%204.png" group-title="SPORTS PORTUGAL" ,Sport TV 4 [PT]
+#EXTINF:-1 tvg-chno="73.9" tvg-id="PT | Sport TV 4" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%204.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV 4
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv4/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.10" tvg-id="sporttv5-pt" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%205.png" group-title="SPORTS PORTUGAL" ,Sport TV 5 [PT]
+#EXTINF:-1 tvg-chno="73.10" tvg-id="PT | Sport TV 5" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%205.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV 5
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
 
-#EXTINF:-1 tvg-chno="73.11" tvg-id="sporttv6-pt" tvg-name="" logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/566/" group-title="SPORTS PORTUGAL" ,Sport TV 6 [PT]
-
+#EXTINF:-1 tvg-chno="73.11" tvg-id="PT | Sport TV 6" tvg-name="" logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/566/" group-title="SPORTS PORTUGAL" ,PT | Sport TV 6
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
 
 #EXTINF:-1 tvg-chno="73.11" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%206.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV NBA
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="73.12" tvg-name="" logo="https://epg.iptvx.one/picons/eurosport1.png" group-title="SPORTS PORTUGAL" ,PT | Eurosport 1
 
@@ -2819,19 +2793,13 @@ https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
 https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ge6gonv7cy/out/v1/a2186ce553fb4a08b286aad3237d5328/cenc.mpd
 
 
-
 #EXTINF:-1 tvg-chno="75.7" tvg-id="" tvg-name="Teledeporte 1080" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20230913T030616SQUARE.png_20230913030616.png" group-title="DEPORTES ESPAÑA" , Teledeporte 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&preroll_duration=30&preroll=1
 
-
 #EXTINF:-1 tvg-chno="75.13" tvg-id="dazn-f1-es"" tvg-logo="https://epg.iptvx.one/picons/dazn-f1-es.png" group-title="DEPORTES ESPAÑA", DAZN F1 [ES]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
 
 #EXTINF:-1 tvg-chno="75.14" tvg-id="ES:.LaLiga.Inside.be" tvg-name="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg"  group-title="DEPORTES ESPAÑA" , LaLiga Inside
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
 #EXTINF:-1 tvg-chno="75.15" tvg-id="top-barca-es" tvg-name="top-barca-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="DEPORTES ESPAÑA" , TOP Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=244377d3-af04-45a5-b1ac-2eaeac56dbbe&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -2871,6 +2839,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-chno="76.20"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/CTV_2018.svg/revision/latest?cb=20250828180730.png"  group-title="SPORTS Canada 🇨🇦" ,CTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
 
 #EXTINF:-1 tvg-chno="77.1" tvg-id="I1241.82450.schedulesdirect.org" tvg-name="TNT Sports 1"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" group-title="#🇬🇧 UK Sport 🇬🇧#",TNT Sports 1 🇬🇧
@@ -3003,6 +2978,24 @@ https://live.streaming.a2d.tv/asset/20465732.isml/.mpd
 https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
 
 
+#EXTINF:-1 tvg-chno="82" tvg-id="spotv" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="SPORTS ASIA", SPOTV HD
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+
+#EXTINF:-1 tvg-chno="82.1" tvg-id="spotv2" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png" group-title="SPORTS ASIA", SPOTV2 HD
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+
 #EXTINF:-1 tvg-chno="83.15" tvg-id="canal-pl-sport-5"  tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport-5.png" group-title="SPORTS POLONIA" , CANAL+ Sport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0f0a4e26e0343021acf24e886af43092":"2e759f1a280b767b4cabe984952c5edd"}
@@ -3010,6 +3003,18 @@ https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Canal_Sport_5/D11/Manifest.mpd
 
 
+
+#EXTINF:-1 tvg-chno="84.11" tvg-id="São.Paulo/SP..SporTV.2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/250px-SporTV_2_2017_logo.svg.png" group-title="SPORTS BRASIL 🇧🇷", São Paulo/SP  SporTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 tvg-chno="84.12" tvg-id="São.Paulo/SP..SporTV.3..br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/800px-SporTV_3_logo_2011.png" group-title="SPORTS BRASIL 🇧🇷", São Paulo/SP  SporTV 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #EXTINF:-1 tvg-chno="84.20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomQwPJ-rO3y3cAmM-E0q1eF6au_QC6wpuVvI2DAPaCn3WymBkpBIxTVir&s=10" group-title="SPORTS BRASIL 🇧🇷", CAZÉ TV 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
@@ -3056,6 +3061,14 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7267/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7268/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="86" tvg-id="sportitalia-it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20241022T043601SQUARE.png"  group-title="sportS ITALIA", Sportitalia [IT]
+https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="86.1" tvg-id="rai-sport" tvg-logo="https://epg.iptvx.one/picons/rai-sport.png" group-title="sportS ITALIA",Rai Sport
+
+
+#EXTINF:-1 tvg-chno="86.2" tvg-id="sportitalia-solocalcio-it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="sportS ITALIA" , Sportitalia Solo Calcio [IT]
+https://jmp2.uk/stvp-ITBC4700002CO
 
 
 #EXTINF:-1 tvg-chno="88.1" tvg-id="arena-sport-1-sk" tvg-logo="https://i.ibb.co.com/h2bcqhS/arenasp1sk.png" group-title="ALL SPORTS", Arena Sport 1 [SK]
@@ -3122,17 +3135,17 @@ https://dash3.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash.allice.antik.sk/stream/joj_sport_streaming001/playlist_cbcs.mpd
+#https://dash.allice.antik.sk/stream/joj_sport_streaming001/playlist_cbcs.mpd
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-chno="88.11" tvg-id="tvg-id="joj-sport-2-cz"" tvg-logo="https://epg.iptvx.one/picons/joj-sport-2-cz.png" group-title="SPORTS🏅", JOJ Šport 2 [CZ]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-chno="88.12" tvg-id="rtvs-sport-sk" tvg-logo="https://i.ibb.co.com/vBJp5Jp/rtvsport.png" group-title="SPORTS🏅" , RTVS Sport [SK]
-
 
 #EXTINF:-1 tvg-chno="88.13" tvg-id=":ŠPORT.HD.sk" tvg-logo="https://files.cdn.magio.tv/tv_logos/-sport-hd.png" group-title="SPORTS🏅" , :ŠPORT HD [SK]
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -3140,7 +3153,15 @@ https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash.allice.antik.sk/stream/stvr_sport_streaming001/playlist_cbcs.mpd
+#https://dash.allice.antik.sk/stream/stvr_sport_streaming001/playlist_cbcs.mpd
+https://dash3.antik.sk/stream/nvidia_stvr_sport/playlist_cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="88.21" tvg-id="s-sport-tr" tvg-logo="https://epg.iptvx.one/picons/s-sport-tr.png" group-title="SPORTS WORLD", S Sport [TR]
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+
+#EXTINF:-1 tvg-chno="88.22" tvg-id="s-sport-2-tr" tvg-logo="https://epg.iptvx.one/picons/s-sport-2-tr.png" group-title="SPORTS WORLD", S Sport 2 [TR]
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
 
 #EXTINF:-1 tvg-chno="92.1" tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="⚽LIGAS EUROPEAS⚽" , DSPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
