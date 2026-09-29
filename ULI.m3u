@@ -23,7 +23,11 @@ https://cache0.wonvt.st/live/09ltl4b04motoc143frk0/master.m3u8
 https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
 
 #EXTINF:-1 tvg-chno="1" tvg-id="I99.46607.schedulesdirect.org" tvg-name="Azteca Uno"  tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="TV AZTECA" tvg-shift="-2", AZTECA UNO HD
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31a3beb4c3b6790fc8196a500530a1e4:920a070b97b2774cf250fb5b0eab4098
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wzknzw4qt4/out/v1/6472b146ca0b487e89e1aa1113f67c71/cenc.mpd
 
 #EXTINF:-1 tvg-chno="1.2" tvg-id="" tvg-name=""  tvg-logo="https://provider-static.plex.tv/epg/cms/production/a11b1ba3-d109-45ec-a87e-4312bad0682c/uno-hora_color_logodrx.png" group-title="TV AZTECA" , Azteca uno menos una hora
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
@@ -719,6 +723,12 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993041/hls/master.m3u8?ads.xumo_cha
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 
 #EXTINF:-1 tvg-chno="27.2"tvg-id="I739.84425.schedulesdirect.org" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="TELEVISA", Unicable HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=127c86bdc5eb6ef9065f265048870ce0:3b99e182e1e700aad17b57c0ff6faebb
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/rgx3cl4qyp/out/v1/11445a00c6cb4ddabf440068396cd2f0/cenc.mpd
+
 
 #EXTINF:-1 tvg-chno="27.4" channel-id="pluto-5ffcc21a432945000762d06b" tvg-id="5ffcc21a432945000762d06b" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png"  group-title="Entretenimiento" , Comedy Central Pluto TV
 
@@ -1184,14 +1194,20 @@ https://cache0.wonvt.st/live/178232v17z1k5v1nckt35/master.m3u8
 
 #EXTINF:-1 tvg-chno="37.5" tvg-id="ABC.News.Live.us2" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="USA LOCAL🇺🇸",ABC News
 
-#EXTINF:-1 tvg-chno="37.5" tvg-id="CW.us2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/250px-The_CW_2024.svg.png" group-title="USA LOCAL🇺🇸", CW
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st/
+#EXTINF:-1 tvg-chno="37.5" tvg-id="CW.us2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/250px-The_CW_2024.svg.png" group-title="USA LOCAL🇺🇸", CW ny
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://ftv.dlhd.net/WPIXDT/M1388/master.m3u8
+https://cache0.wonvt.st/live/0tkibjo1hz7cv00phrm41/master.m3u8
 
+#EXTINF:-1 tvg-chno="37.5" tvg-id="CW.us2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/250px-The_CW_2024.svg.png" group-title="USA LOCAL🇺🇸", CW
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cache0.wonvt.st/live/0c2fgsg0gmriej15bkubi/master.m3u8
 
 #EXTINF:-1 tvg-chno="37.7" tvg-id="TNT.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="USA LOCAL🇺🇸",TNT 🇺🇸
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cache0.wonvt.st/live/0oascgx0j3zukz0ua9nb9/master.m3u8
 
 #EXTINF:-1 tvg-chno="37.7" tvg-id="TNT.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="USA LOCAL🇺🇸",TNT 🇺🇸 op2
 
@@ -1415,6 +1431,7 @@ https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7d
 #EXTINF:-1 tvg-chno="58.3" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158" group-title="💢FILMS 24/7💢",Box Cinema
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/X2V8EZJVA1604HR5VJTX/hls3/now,-1m/m.m3u8?ads.channel_name=Box+Cinema&ads.content_cat=IAB1-5&ads.content_genre=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies%2CIndependent+Movies%2CHispanic&ads.content_id=SKL101&ads.content_language=es&ads.content_title=outlaws+buckle&ads.ic=IAB1-7&ads.provider=Klasko&ads.rating=TV14&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=d1aaa34a-0030-4342-8a18-674844da1f62&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=&ads.livestream=1&ads.coppa=0
 
+
 #EXTINF:-1 tvg-chno="60" channel-id="" tvg-name="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Thriller-Terror 🇪🇸
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 #EXTINF:-1 tvg-chno="60.1" channel-id="" tvg-name="Runtime Crimen"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Crimen 🇪🇸
@@ -1617,6 +1634,11 @@ https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(G
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GOLDEN_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-chno="66.3" tvg-id="I378.80804.schedulesdirect.org" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Golden🎬", Golden Premier
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b39fdb1efc89fa2b791bdce8428c3e09:1941081db257b29643c95783d3a2c5cd
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd
 
 #EXTINF:-1 tvg-chno="66.4" tvg-id="I379.80660.schedulesdirect.org" tvg-name="Golden Premier 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Golden🎬", Golden Premier 2 
 
@@ -2142,10 +2164,9 @@ https://live1009.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origi
 https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
 
 #EXTINF:-1 tvg-chno="71.24" tvg-id=""  tvg-logo="https://epg.iptvx.one/picons/cbs-sports-network-us.png" group-title="⚽FUTBOL LIGA MX⚽", CBS Sports Network
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/us_cbssportsnetwork/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="94.1" tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000" group-title="⚽️⚾🏐🎾Deportes🏎️🥊🥋🏈🏀" , ESPN Argentina
@@ -2313,7 +2334,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
 
-#EXTINF:-1 tvg-chno="92" tvg-id="I469.111046.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/320px-TyC_Sports_logo.svg.png" group-title="Deportes SUDAMERICA" , TyC Sports 
+#EXTINF:-1 tvg-chno="92" tvg-id="tyc-sports-ar" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/tyc-sports-ar.png" group-title="Deportes SUDAMERICA" , TyC Sports HD [AR]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2358,7 +2379,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 #EXTINF:-1 tvg-chno="90.2" tvg-id="65ea8b928145cb0008509426"  tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="⚽UEFA Champions League⚽" ,UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
-#EXTINF:-1 tvg-chno="90.2" tvg-id=""  tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="⚽UEFA Champions League⚽" , CBS SPORTS UEFA Champions League
+#EXTINF:-1 tvg-chno="90.2"  tvg-id="65ea8b928145cb0008509426"  tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="⚽UEFA Champions League⚽" , CBS SPORTS UEFA Champions League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c3e0055f1ce3886ea411814e9f77b4e:a1fb83f21bf0ae6723973a7db6b78441
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/o2hcyarei8/out/v1/c10a9be1c9b84442bcd89a098aa20a10/cenc.mpd
@@ -2391,11 +2412,7 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 
 #EXTINF:-1 tvg-chno="70.1" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="" group-title="ARTES MARCIALES MMA 🥋" ,  PPV 🥋 🚫24/7
 
-
 #EXTINF:-1 tvg-chno="70.1" tvg-id="en:.STARZPLAY.Sports.ae" tvg-logo="https://iili.io/2MEFfFj.png" group-title="ARTES MARCIALES MMA 🥋" ,Starzplay Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
-https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
 #EXTINF:-1 tvg-chno="70.1" tvg-id="polsat-sport-fight" tvg-logo="https://ineago.cf.insyscd.net/insysgo.files/ineago/epg-channel-images/140x70-polsat-sport-fight.png" group-title="ARTES MARCIALES MMA 🥋",Polsat Sport Fight
 
@@ -2471,7 +2488,6 @@ https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-175
 #EXTINF:-1 tvg-chno="70.16" tvg-id="6675b7ca7620a64769e3a8c0" tvg-name="6675b7ca7620a64769e3a8c0" tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/256x144.webp?type=channelTile" group-title="BOX 🥊",Boxing TV
 
 
-
 #EXTINF:-1 tvg-chno="70.20" tvg-id="" tvg-name="NFL Network" group-title="NFL🏈" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png",NFL Network
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -2531,10 +2547,7 @@ https://cache0.wonvt.st/live/06v3tia18z5r1q1bygsyq/master.m3u8
 https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
 
 #EXTINF: -1 tvg-chno="71.3" tvg-id="FS1.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="🇺🇸 USA Sports 🇺🇸", Fox Sports 1 US HD
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/us_fs1/index.m3u8
+
 
 #EXTINF: -1 tvg-chno="71.3" tvg-id="FS1.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="🇺🇸 USA Sports 🇺🇸", Fox Sports 1 US HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2550,10 +2563,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 #EXTINF: -1 tvg-chno="71.4" tvg-id="FS2.HD.us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="🇺🇸 USA Sports 🇺🇸", Fox Sports 2 US HD
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/us_fs2/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cache0.wonvt.st/live/13r6cob1fh05tc1261qhx/master.m3u8
+
 
 #EXTINF:-1 tvg-chno="71.6" tvg-id="692073" tvg-logo="https://canvas-lb.tubitv.com/opts/XMcAu0V473anBA==/4a1d8a18-5086-438b-9298-7381aee4cb83/CHgQeDoFMS4xLjdAAQ==" group-title="🇺🇸 USA Sports 🇺🇸", Women's Sports Network
 https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
@@ -2682,10 +2695,9 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 #EXTINF:-1 tvg-chno="71.24" channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e"   tvg-logo="https://i.ibb.co.com/qmn49tP/cbsgolajo.png" group-title="🇺🇸 USA Sports 🇺🇸", CBS Sports GOLAZO
 
 #EXTINF:-1 tvg-chno="71.24" tvg-id="CBS.Sports.Network.HD.us2"  tvg-logo="https://epg.iptvx.one/picons/cbs-sports-network-us.png" group-title="🇺🇸 USA Sports 🇺🇸", CBS Sports Network
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/us_cbssportsnetwork/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8
 
 
 
@@ -2713,86 +2725,6 @@ https://linear-1068.frequency.stream/dist/freelivesports/1068/hls/master/playlis
 
 #EXTINF:-1 tvg-chno="72.2" tvg-id="bein-sport-3-fr" tvg-name="" group-title="Sports France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" ,beIN Sports 3 [FR]
 
-
-
-#EXTINF:-1 tvg-chno="73" tvg-id="PT | DAZN 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="SPORTS PORTUGAL" , PT | DAZN 1
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_elevensport1/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.1" tvg-id="PT | DAZN 2" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="SPORTS PORTUGAL" , PT | DAZN 2
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_elevensport2/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.2" tvg-id="PT | DAZN 3" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="SPORTS PORTUGAL" , PT | DAZN 3
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_elevensport3/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.3" tvg-id="PT | DAZN 4" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="SPORTS PORTUGAL" , PT | DAZN 4
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_elevensport4/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.4" tvg-id="PT | DAZN 5" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" group-title="SPORTS PORTUGAL" , PT | DAZN 5
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_elevensport5/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.5" tvg-id="PT | DAZN 6" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" group-title="SPORTS PORTUGAL"  , PT | DAZN 6
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_elevensport6/index.m3u8
-
-
-#EXTINF:-1 tvg-chno="73.6" tvg-id="PT | Sport TV 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 1
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_sporttv1/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.7" tvg-id="PT | Sport TV 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 2
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_sporttv2/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.8" tvg-id="PT | Sport TV 3" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png" group-title="SPORTS PORTUGAL" , PT | Sport TV 3
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_sporttv3/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.9" tvg-id="PT | Sport TV 4" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%204.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV 4
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_sporttv4/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.10" tvg-id="PT | Sport TV 5" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%205.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV 5
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_sporttv5/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.11" tvg-id="PT | Sport TV 6" tvg-name="" logo="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/566/" group-title="SPORTS PORTUGAL" ,PT | Sport TV 6
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
-
-#EXTINF:-1 tvg-chno="73.11" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%206.png" group-title="SPORTS PORTUGAL" ,PT | Sport TV NBA
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/pt_sporttvnba/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="73.12" tvg-name="" logo="https://epg.iptvx.one/picons/eurosport1.png" group-title="SPORTS PORTUGAL" ,PT | Eurosport 1
@@ -2871,6 +2803,17 @@ https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=504440a5e83f419c816d8c767c7f703b:59aff40e34ae89f4e3af4758f24a0d8c
 https://cache4.zapitv.com/live/eds_c2/HYPERMOTION3/dash_live_ez/HYPERMOTION3.mpd
+
+
+#EXTINF:-1 tvg-chno="75.5" tvg-name="Eurosport 1 1080"  group-title="DEPORTES ESPAÑA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1 1080
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f4751abc997473d9138d17b5944be04&key:a0aefedd2376a54b8b50f9b7c2d50ac7
+https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
+
+#EXTINF:-1 tvg-chno="75.6" tvg-name="Eurosport 2 1080"  group-title="DEPORTES ESPAÑA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 2 1080 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528&key:041e35e31381521b3398af5c6dd99414
+https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
 #EXTINF:-1 tvg-chno="75.14" tvg-name="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="DEPORTES ESPAÑA",M+ LaLiga HD
 
@@ -2973,49 +2916,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-
-#EXTINF:-1 tvg-chno="77.6" tvg-id="sky-sports-football" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-football.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Football [UK]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_ssfb/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.7" tvg-id="sky-sports-apl" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-apl.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Premier League [UK]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_ssepl/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.8" tvg-id="sky-sports-maine" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-maine.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Main Event [UK]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_ssmain/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.9" tvg-id="sky-sports-action" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-action.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Action / NFL [UK]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_ssaction/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-arena" tvg-name="Sky Sports+ HD" tvg-logo="https://epg.iptvx.one/picons/sky-sports-arena.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports + [UK]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_ssarena/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-mix" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-mix.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Mix [UK]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_ssmix/index.m3u8
-
-#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-f1-uhd-uk" tvg-logo="https://epg.iptvx.one/picons/sky-sports-f1-uhd-uk.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports F1 UHD [UK]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://liveua.cdnfly.click/uk_ssf1/index.m3u8
-
 #EXTINF:-1 tvg-chno="77.11" tvg-name="Premier Sports 1" tvg-id=""  tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Premier Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
@@ -3026,7 +2926,34 @@ http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vwq77hfgzw/o
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+#EXTINF:-1 tvg-chno="77.6" tvg-id="sky-sports-football" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-football.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Football [UK]
 
+#EXTINF:-1 tvg-chno="77.7" tvg-id="sky-sports-apl" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-apl.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Premier League [UK]
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
+
+#EXTINF:-1 tvg-chno="77.8" tvg-id="sky-sports-maine" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-maine.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Main Event [UK]
+
+#EXTINF:-1 tvg-chno="77.9" tvg-id="sky-sports-action" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-action.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Action / NFL [UK]
+http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
+
+#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-arena" tvg-name="Sky Sports+ HD" tvg-logo="https://epg.iptvx.one/picons/sky-sports-arena.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports + [UK]
+
+
+#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-mix" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-mix.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Mix [UK]
+
+
+#EXTINF:-1 tvg-chno="77.10" tvg-id="sky-sports-f1-uhd-uk" tvg-logo="https://epg.iptvx.one/picons/sky-sports-f1-uhd-uk.png" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports F1 UHD [UK]
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-id="" tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/social/public/itv_logo_blk.jpg?itok=8AahafqO" group-title="#🇬🇧 UK Sport 🇬🇧#", UK - ITV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
 
 #EXTINF:-1 tvg-chno="78.11" tvg-id="beINSports1.au" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/bein-sport-1.png" group-title="Sports Australia",BeIN Sports 1 🇦🇺
@@ -3100,6 +3027,12 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=17291
 #EXTVLCOPT:http-referrer=https://github.com/vuminhthanh12/vuminhthanh12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1729168&extension=ts&play_token=ThvjYQPppG
+
+
+#EXTINF:-1 tvg-chno="83.11" tvg-id="eleven-sports-1" tvg-logo="https://epg.iptvx.one/picons/eleven-sports-1.png" group-title="SPORTS POLONIA" , Eleven Sports 1 [PL]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b75628c0417d3a2a9da7c8e7e4f4ce5f:40cc956e5bdaceb55426c55e0e175207
+https://tvo-28-3.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
 #EXTINF:-1 tvg-chno="83.15" tvg-id="canal-pl-sport-5"  tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport-5.png" group-title="SPORTS POLONIA" , CANAL+ Sport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3278,35 +3211,35 @@ https://dash.allice.antik.sk/stream/stvr_sport_streaming001/playlist_cbcs.mpd
 
 
 
-#EXTINF:-1  tvg-id="MBC.1.ae" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC 1 🇦🇪
+#EXTINF:-1  tvg-id="" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC SPORT 1 🇦🇪
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
 
-#EXTINF:-1  tvg-id="MBC.2.ae" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC 2 🇦🇪
+#EXTINF:-1  tvg-id="" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC SPORT 2 🇦🇪
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
 https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
 
-#EXTINF:-1  tvg-id="MBC.3.ae" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC 3 🇦🇪
+#EXTINF:-1  tvg-id="" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC SPORT 3 🇦🇪
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=448128e485ef44d98024e7c5f3fa078b:a5759aeb79afae384819a20c481e2c4a
 https://live-event-3-enc.edgenextcdn.net/out/v1/1117b28b859948afa6d5660460b392df/index.mpd
 
-#EXTINF:-1  tvg-id="MBC.4.ae" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC 4 🇦🇪
+#EXTINF:-1  tvg-id="" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC SPORT 4 🇦🇪
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
 https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
 
-#EXTINF:-1  tvg-id="MBC.5.ae" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC 5 🇦🇪
+#EXTINF:-1  tvg-id="" group-title="⭐⭐SPORTS⭐⭐" tvg-logo="http://tv.asc.vg/shahid.sport.png",MBC SPORT 5 🇦🇪
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3415,19 +3348,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-1-uhd-uk.png" tvg-chno="150" group-title="⚽LIGAS EUROPEAS⚽",Sky Sports 1 UHD [UK]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://cplaymax.netlify.app/sky_sports/cplaymax/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/sky-sports-2-uhd-uk.png" tvg-chno="151" group-title="⚽LIGAS EUROPEAS⚽",Sky Sports 2 UHD [UK]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
-https://cplaymax.netlify.app/sky_sports_2/cplaymax/manifest.mpd
+#EXTINF:-1 tvg-chno="97" tvg-id="I465.72189.schedulesdirect.org" tvg-name=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410" group-title="⚽LIGAS EUROPEAS⚽" , Fox Sports Deportes
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cache0.wonvt.st/live/0abl34w0f29hih0e5qgvt/master.m3u8
 
 
 
