@@ -1989,6 +1989,8 @@ https://c4d2cd4a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 
 #EXTINF:-1 tvg-chno="69.24"  tvg-id="ScreenPix.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix._SL170_FMpng_.png" group-title="Cine PREMIUM🎦🇺🇸",❖ Screenpix (🔉🇪🇸🇬🇧 💬🇬🇧) 🇺🇸
 
+
+
 #EXTINF:-1 tvg-chno="100" tvg-id="I464.75176.schedulesdirect.org" tvg-name="464 TUDN" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="⚽FUTBOL LIGA MX⚽"  ,TUDN 🇺🇸
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-tudn?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
@@ -2181,31 +2183,17 @@ https://liveua.cdnfly.click/us_cbssportsnetwork/index.m3u8
 https://tinyurl.com/tvespn1a
 
 #EXTINF:-1 tvg-chno="94.1" tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000" group-title="⚽️⚾🏐🎾Deportes🏎️🥊🥋🏈🏀" , ESPN Argentina
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
-https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
 
 #EXTINF:-1 tvg-chno="94.2" tvg-id="" tvg-name="" group-title="⚽️⚾🏐🎾Deportes🏎️🥊🥋🏈🏀"  logo="https://www.telcocom.com.ar/img/canales/espn-2.png", ESPN 2 Argentina
 https://tinyurl.com/tvespn2a
 
 #EXTINF:-1 tvg-chno="94.2" tvg-id="" tvg-name="" group-title="⚽️⚾🏐🎾Deportes🏎️🥊🥋🏈🏀"  logo="https://www.telcocom.com.ar/img/canales/espn-2.png", ESPN 2 Argentina
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e01d045ccbf4e24ab49d294ff45930d:63558c6bf7670a8d06fd8150d258a6d5
-https://ciades.providers.com.ar/ESPN2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
+
 
 #EXTINF:-1 tvg-chno="94.3" tvg-id="ESPN.3.co" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqmvpUQQuP2aaFrflRVoyex4tnZSilUEk5XcwJdlkT4ahrihfJe_nRzlIPbzezSmfrHQ&usqp=CAU" group-title="⚽️⚾🏐🎾Deportes🏎️🥊🥋🏈🏀" ,ESPN 3 SUR 🇨🇴
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 
-#EXTINF:-1 tvg-chno="94.3" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqmvpUQQuP2aaFrflRVoyex4tnZSilUEk5XcwJdlkT4ahrihfJe_nRzlIPbzezSmfrHQ&usqp=CAU" group-title="⚽️⚾🏐🎾Deportes🏎️🥊🥋🏈🏀" ,ESPN 3 SUR arg
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4fb8e17ed194b7e816a370d15d65d86:2c7b7a4f26c8e055cbf1eb9d8b19aa81
-https://ciades.providers.com.ar/ESPN3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4
 
 #EXTINF:-1 tvg-chno="94.4" tvg-id="ESPN.4.co" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="⚽️⚾🏐🎾Deportes🏎️🥊🥋🏈🏀" , ESPN 4 - Sur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3112,6 +3100,20 @@ http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 tvg-chno="83.2" tvg-id="match-football2" tvg-logo="https://epg.iptvx.one/picons/match-football2.png" group-title="SPORTS RUSIA", Матч! Футбол 2
 http://stream.mcquack.net/142/index.m3u8
 
+#EXTINF:-1 tvg-chno="83.2" tvg-id="match-football2" tvg-logo="https://epg.iptvx.one/picons/match-football2.png" group-title="SPORTS RUSIA", Матч! Футбол 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
+https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-chno="83.3" tvg-id="match-football3" tvg-logo="https://epg.iptvx.one/picons/match-football3.png" group-title="SPORTS RUSIA", Матч! Футбол 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
+https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
+
 
 
 #EXTINF:-1 tvg-chno="83.4" tvg-id="" tvg-logo="https://epg.iptvx.one/picons/polsat-sport.png" group-title="SPORTS POLONIA",Polsat Sport 1
@@ -3423,6 +3425,19 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_key=b20204301c9811c83e2777b83801d36d:c31f546034f6af6525e870678a8326d8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/iu2bdcrjzs/out/v1/e22d52e5cefe49998aaaa751972e18cc/353410b3-f51d-482b-815a-48bb7acc8edd-cenc.mpd?aws_sessionId=94e58c6e-7fd5-4577-94c4-a8512eb680bf
 
+#EXTINF:-1 tvg-chno="81.4" tvg-id="setanta1-lt" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/setanta1-lt.png" group-title="⚽LIGAS EUROPEAS⚽" tvg-shift="", Setanta Sports 1 Lietuva
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0
+https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD/DASH_5_CPIX/Setanta_Sports_HD.mpd
+
+#EXTINF:-1 tvg-chno="81.5" tvg-id="setanta2-lt" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/setanta2-lt.png" group-title="⚽LIGAS EUROPEAS⚽" tvg-shift="", Setanta Sports 2 Lietuva
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c
+https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd
 
 #EXTINF:-1 tvg-chno="81.4" tvg-id="setanta1-lt" tvg-name="" tvg-logo="https://epg.iptvx.one/picons/setanta1-lt.png" group-title="⚽LIGAS EUROPEAS⚽" tvg-shift="", Setanta Sports 1 Lietuva
 http://stream.mcquack.net/234/index.m3u8
@@ -3459,18 +3474,6 @@ https://ottlive.dishhome.com.np/protected/vVnVkZ4Bnu3lGwDQJxH-/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6136af0960e4fb8b535dd6b1dd307c8:7e73113b6fbcc167612a0b2e58715bd8
 https://ottlive.dishhome.com.np/protected/BlnekZ4Bnu3lGwDQwBL2/dash/manifest.mpd
-
-
-#EXTINF:-1 tvg-chno="90.11"  tvg-id="" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="⚽LIGAS EUROPEAS⚽", FUBO SPORTS NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 tvg-chno="90.12"  tvg-id="" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="⚽LIGAS EUROPEAS⚽", FUBO SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
 
 
 #EXTINF:-1 tvg-chno="97" tvg-id="I465.72189.schedulesdirect.org" tvg-name=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410" group-title="⚽LIGAS EUROPEAS⚽" , Fox Sports Deportes
